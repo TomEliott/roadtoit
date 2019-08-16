@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="http://localhost:4000/roadtoit/tag/incubators/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/roadtoit/" rel="alternate" type="text/html" />
+  <updated>2019-08-16T19:07:00+02:00</updated>
+  <id>http://localhost:4000/roadtoit/tag/incubators/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">RoadToIT | </title>
+  
+
+  
+    <subtitle>A blog about IT in Île-de-France region</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Test incubator</title>
+      <link href="http://localhost:4000/roadtoit/incubator" rel="alternate" type="text/html" title="Test incubator" />
+      <published>2019-03-02T11:42:00+01:00</published>
+      <updated>2019-03-02T11:42:00+01:00</updated>
+      <id>http://localhost:4000/roadtoit/incubator</id>
+      <content type="html" xml:base="http://localhost:4000/roadtoit/incubator">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;The Famous French School&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;xxx €&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
