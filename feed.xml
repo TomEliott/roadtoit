@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/roadtoit/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/roadtoit/" rel="alternate" type="text/html" /><updated>2019-08-16T19:32:19+02:00</updated><id>http://localhost:4000/roadtoit/</id><title type="html">RoadToIT</title><subtitle>A blog about IT in Île-de-France region</subtitle><entry><title type="html">Test</title><link href="http://localhost:4000/roadtoit/test" rel="alternate" type="text/html" title="Test" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/roadtoit/test</id><content type="html" xml:base="http://localhost:4000/roadtoit/test">&lt;p&gt;Rapide présentation de l’école et des principaux axes éducatifs.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/roadtoit/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/roadtoit/" rel="alternate" type="text/html" /><updated>2019-08-17T17:33:10+02:00</updated><id>http://localhost:4000/roadtoit/</id><title type="html">RoadToIT</title><subtitle>A blog about IT in Île-de-France region</subtitle><entry><title type="html">Test</title><link href="http://localhost:4000/roadtoit/test" rel="alternate" type="text/html" title="Test" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/roadtoit/test</id><content type="html" xml:base="http://localhost:4000/roadtoit/test">&lt;p&gt;Rapide présentation de l’école et des principaux axes éducatifs.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -187,7 +187,7 @@ At the end of the first 3 years, you can continue with the Advanced/Expert progr
 &lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epitech-photo.jpg&quot; alt=&quot;EPITECH campus&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;an-influential-student-community&quot;&gt;An influential student community&lt;/h2&gt;
-&lt;p&gt;Epitech not only shares its campus with EPITA, but also its hundreds of clubs. You will find video game, movies, programming, photo clubs and more. Epitech students also have access to a set of common services at the technology campus : network of associations, large cafeteria and more. Epitech  also enjoys privileged access to numerous student residences : 2 at the Kremlin Bicêtre (including one on campus) and another in Villejuif (10-15 minutes from Paris).&lt;/p&gt;
+&lt;p&gt;Epitech not only shares its campus with EPITA, but also its hundreds of clubs. You will find video game, movies, programming, photo clubs and more. Epitech students also have access to a set of common services at the technology campus : network of associations, large cafeteria and more. Epitech  also enjoys privileged access to numerous student residences : 2 at the Kremlin Bicêtre (including one on campus) and another in Villejuif (10-15 minutes from Paris). &lt;em&gt;Le +&lt;/em&gt; : The Val-de-Marne department offers a &lt;a href=&quot;https://www.valdemarne.fr/a-votre-service/deplacement/transports/remboursement-de-la-carte-imagine-r&quot;&gt;refund of part of your transport costs&lt;/a&gt;.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -258,7 +258,7 @@ At the end of the first 3 years, you can continue with the Advanced/Expert progr
 &lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epita-photo2.jpg&quot; alt=&quot;EPITA campus&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;a-very-active-student-life&quot;&gt;A very active student life&lt;/h2&gt;
-&lt;p&gt;The Student Life is very active in the main campus, with more than 70 clubs and organizations, like video games, programming, movies club and more. Only a few minutes from public transport, you can easily reach the center of Paris and nice places.&lt;/p&gt;
+&lt;p&gt;The Student Life is very active in the main campus, with more than 70 clubs and organizations, like video games, programming, movies club and more. Only a few minutes from public transport, you can easily reach the center of Paris and nice places. &lt;em&gt;Le +&lt;/em&gt; : The Val-de-Marne department offers a &lt;a href=&quot;https://www.valdemarne.fr/a-votre-service/deplacement/transports/remboursement-de-la-carte-imagine-r&quot;&gt;refund of part of your transport costs&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Finally, as a part of your final semester, you will have to do an internship. Paris and surrounding cities host many startups and large companies, like Apple, Google, Microsoft and Facebook. The French Tech is also a great way to discover new French startups with great potential, like in the incubator Station F, just ten minutes from the EPITA campus.&lt;/p&gt;
 
@@ -275,7 +275,79 @@ At the end of the first 3 years, you can continue with the Advanced/Expert progr
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10508.92156903637!2d2.3628171!3d48.8156654!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x581b7c8cd0a77c3e!2sEcole+d%E2%80%99ing%C3%A9nieurs+en+informatique+-+EPITA!5e0!3m2!1sfr!2sfr!4v1565021285281!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="schools" /><summary type="html">Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.</summary></entry><entry><title type="html">Efrei</title><link href="http://localhost:4000/roadtoit/efrei" rel="alternate" type="text/html" title="Efrei" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/roadtoit/efrei</id><content type="html" xml:base="http://localhost:4000/roadtoit/efrei">&lt;p&gt;Efrei&lt;/p&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="schools" /><summary type="html">Efrei</summary></entry><entry><title type="html">Ecole 42</title><link href="http://localhost:4000/roadtoit/ecole42" rel="alternate" type="text/html" title="Ecole 42" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/roadtoit/ecole42</id><content type="html" xml:base="http://localhost:4000/roadtoit/ecole42">&lt;p&gt;École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the &lt;em&gt;“self-study”&lt;/em&gt; learning method through dozens of projects and programming rushs (called &lt;em&gt;“pools”&lt;/em&gt;).&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10508.92156903637!2d2.3628171!3d48.8156654!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x581b7c8cd0a77c3e!2sEcole+d%E2%80%99ing%C3%A9nieurs+en+informatique+-+EPITA!5e0!3m2!1sfr!2sfr!4v1565021285281!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="schools" /><summary type="html">Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.</summary></entry><entry><title type="html">Efrei</title><link href="http://localhost:4000/roadtoit/efrei" rel="alternate" type="text/html" title="Efrei" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/roadtoit/efrei</id><content type="html" xml:base="http://localhost:4000/roadtoit/efrei">&lt;p&gt;Located only 15 minutes from Paris, Efrei is a general engineering school of digital technologies founded almost 90 years ago. Efrei delivers a French engineering degree since 1957 and offers French and English courses to foreign students.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 School Name&lt;/td&gt;
+      &lt;td&gt;École d’ingénieur généraliste en informatique et technologies du numérique (Efrei Paris)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Villejuif, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;⚖️ Type&lt;/td&gt;
+      &lt;td&gt;Private Engineering School&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;📆 Course Duration&lt;/td&gt;
+      &lt;td&gt;3 to 5 years&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
+      &lt;td&gt;Accepted&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;9200€/year (students from Europe and Africa) &lt;br /&gt; 10900€/year (other students)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Located in a small town near Paris in a cozy campus, Efrei is a private engineering school specialized in digital technologies, with different programs for international students. The school was founded almost 90 years ago and merged 2 years ago with Esigetel (another engineering school) to become &lt;em&gt;Efrei Paris&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/efrei-photo.jpg&quot; alt=&quot;Efrei campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;digital-tech-at-the-center-of-education&quot;&gt;Digital tech at the center of education&lt;/h2&gt;
+&lt;p&gt;When we talk about new technologies, most of us think about computer science or IT, but Efrei offers a teaching around digital technologies. Thanks to that, students build their own personalized program : they have the choice between 4 integrated “classes préparatoires” and 12 majors covering all digital domains (including 6 in full English, see below).&lt;/p&gt;
+
+&lt;p&gt;For international students, Efrei offers a &lt;em&gt;Master of Engineering&lt;/em&gt; (or &lt;em&gt;Diplôme d’ingénieur&lt;/em&gt; in French), including 3 years of undergraduate education and 2 years at the graduate level.&lt;/p&gt;
+
+&lt;p&gt;Efrei’s undergraduate program is composed of scientific and technical engineering courses that are both general, such as mathematics, electronics, computer science or physics. It is a great way to prepare future engineers for their future responsibilities in the professional world.&lt;/p&gt;
+
+&lt;p&gt;After this period, students develop and refine their career goals, making them job-ready thanks to different majors, and some of them are completely in English, like : software engineering, finance, big data, business, networks and cloud IT. If you feel comfortable with French, you can also orient yourself in AR/VR, droids, drones, avionics, space, or even renewable energies.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;We are committed to training engineers conscious of others and open to the world, combining technical expertise and interpersonal know-how as innovators or entrepreneurs. In order to achieve this result, we are constantly striving to innovate, in a dynamic of digital and pedagogical transformation.&lt;/strong&gt; &lt;br /&gt; Philippe Volle, Dean of Studies and Research&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/efrei-photo2.jpg&quot; alt=&quot;Efrei campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;a-cozy-campus&quot;&gt;A cozy campus&lt;/h2&gt;
+&lt;p&gt;The campus is nice and well placed, you have public transport to reach Paris and other schools nearby as EPITA, Sup’Biotech or Epitech. You will find less expensive accommodation in Villejuif or Kremlin-Bicêtre than in Paris. &lt;em&gt;Le +&lt;/em&gt; : The Val-de-Marne department offers a &lt;a href=&quot;https://www.valdemarne.fr/a-votre-service/deplacement/transports/remboursement-de-la-carte-imagine-r&quot;&gt;refund of part of your transport costs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Student life is also active in Efrei campus, with around 50 different clubs, like photography, movies, 3D modeling, aviation, gaming and international (do not hesitate to contact &lt;a href=&quot;https://www.facebook.com/efrei.int/&quot;&gt;EFREI Int’&lt;/a&gt;, which welcomes foreign students in the school).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Christiane Michel&lt;/strong&gt; &lt;br /&gt; Director of International Relations &lt;br /&gt; Head of Language Department &lt;br /&gt;&lt;em&gt;christiane.michel@efrei.fr&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2628.64152079161!2d2.3615440156719227!3d48.7887336792807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e673e24e04a9c3%3A0xc55cb3e676f95321!2sEfrei+Paris!5e0!3m2!1sfr!2sfr!4v1566044753050!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="schools" /><summary type="html">Located only 15 minutes from Paris, Efrei is a general engineering school of digital technologies founded almost 90 years ago. Efrei delivers a French engineering degree since 1957 and offers French and English courses to foreign students.</summary></entry><entry><title type="html">Ecole 42</title><link href="http://localhost:4000/roadtoit/ecole42" rel="alternate" type="text/html" title="Ecole 42" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/roadtoit/ecole42</id><content type="html" xml:base="http://localhost:4000/roadtoit/ecole42">&lt;p&gt;École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the &lt;em&gt;“self-study”&lt;/em&gt; learning method through dozens of projects and programming rushs (called &lt;em&gt;“pools”&lt;/em&gt;).&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
