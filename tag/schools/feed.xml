@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/roadtoit/tag/schools/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/roadtoit/" rel="alternate" type="text/html" />
-  <updated>2019-08-17T18:13:47+02:00</updated>
+  <updated>2019-08-18T19:32:12+02:00</updated>
   <id>http://localhost:4000/roadtoit/tag/schools/feed.xml</id>
 
   
@@ -44,40 +44,6 @@
   
   
 
-  
-    <entry>
-      <title type="html">ECE</title>
-      <link href="http://localhost:4000/roadtoit/ece" rel="alternate" type="text/html" title="ECE" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/roadtoit/ece</id>
-      <content type="html" xml:base="http://localhost:4000/roadtoit/ece">&lt;p&gt;ECE&lt;/p&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="schools" />
-      
-
-      
-        <summary type="html">ECE</summary>
-      
-
-      
-      
-    </entry>
   
     <entry>
       <title type="html">Sorbonne University</title>
@@ -199,12 +165,111 @@ As for the other schools or universities presented here, you will find many club
     </entry>
   
     <entry>
-      <title type="html">Isep</title>
-      <link href="http://localhost:4000/roadtoit/isep" rel="alternate" type="text/html" title="Isep" />
+      <title type="html">Paris-Saclay University</title>
+      <link href="http://localhost:4000/roadtoit/parissaclay" rel="alternate" type="text/html" title="Paris-Saclay University" />
       <published>2019-03-02T11:42:00+01:00</published>
       <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/roadtoit/isep</id>
-      <content type="html" xml:base="http://localhost:4000/roadtoit/isep">&lt;p&gt;Isep&lt;/p&gt;</content>
+      <id>http://localhost:4000/roadtoit/parissaclay</id>
+      <content type="html" xml:base="http://localhost:4000/roadtoit/parissaclay">&lt;p&gt;Unlike all the schools I mentioned here, Paris-Saclay University is not just a simple university but a group of universities in Île-de-France Region specializing in many scientific fields. Paris-Saclay also brings together France’s largest technology hub and offers to French and international students world-renowned degrees.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 School Name&lt;/td&gt;
+      &lt;td&gt;Université Paris-Saclay&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Saint Aubain, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;⚖️ Type&lt;/td&gt;
+      &lt;td&gt;Community of universities and institutions (Comue)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;📆 Course Duration&lt;/td&gt;
+      &lt;td&gt;3 to 8 years&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;👥 Members&lt;/td&gt;
+      &lt;td&gt;CNRS, CEA, IHES, INRA, INRIA, ONERA, INSERM, AgroParisTech,&lt;br /&gt; CentraleSupélec, ENS, Université Paris-Sud and more&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;Depends on courses, some institutions charge fees&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I cannot compare the Paris-Saclay University with other schools because the concept is unique in France. Paris-Saclay brings together some ten universities and scientific institutions among the most renowned in the world. In order to synthesize the article as much as possible, I will present only the main courses offered in the field of computer and new technologies, and the student life in Paris-Saclay’s campus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/parissaclay-photo.jpg&quot; alt=&quot;Paris-Saclay campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;masters-degrees-fully-in-english&quot;&gt;Master’s degrees fully in English&lt;/h2&gt;
+&lt;p&gt;The list of all the masters offered by Paris-Saclay Université and its partners is very long, I propose below a presentation of the main masters in English of the Computer Science department (member of the &lt;a href=&quot;https://universite-paris-saclay.fr/en/masters-degrees-in-english&quot;&gt;&lt;em&gt;School Engineering, information science and technology&lt;/em&gt;&lt;/a&gt; department)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m1-computer-science-international-track#presentation-m1&quot;&gt;&lt;em&gt;M1 Computer science - International track&lt;/em&gt;&lt;/a&gt; (by Telecom Paris-Sud) 
+&lt;br /&gt;Introduction to networks, human-computer interaction and computer science, with two majors : &lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-informatique-pour-les-reseaux-de-communication-computer-science-for&quot;&gt;Computer Networks (CCN)&lt;/a&gt; and &lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-interaction-human-computer-interaction-hci&quot;&gt;Human Computer Interaction (HCI)&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m1-hcid-eit-digital&quot;&gt;&lt;em&gt;M1 Human Computer Interaction &amp;amp; Design - EIT Digital&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud)
+&lt;br /&gt;Introduction to Human-Computer Interaction and Interactive Systems, with opportunities to choose from majors like IoT, mobile interaction, creative design, audio synthesis, virtual humans, AR and more.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-hcid-eit-digital#presentation-m2&quot;&gt;&lt;em&gt;M2 Human Computer Interaction &amp;amp; Design - EIT Digital&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud)
+&lt;br /&gt; Following M1 above, M2 HCID focuses on the design, development and evaluation of interactive systems that are adapted to users and the context of their use (gestural, mobile, AR/VR, intelligent agents, virtual humans, computer graphics and machine learning).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-reseaux-de-communications-avances-advanced-communication-networks-acn#presentation-m2&quot;&gt;&lt;em&gt;M2 Advanced Communication Networks (ACN)&lt;/em&gt;&lt;/a&gt; (by Telecom ParisTech and Polytechnique)
+&lt;br /&gt; Understanding network paradigms, architectures, algorithms and technologies, and win a strong expertise in theoretical tools and methods for network performance study and analysis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-informatique-pour-les-reseaux-de-communication-computer-science-for#presentation-m2&quot;&gt;&lt;em&gt;M2 Computer Science for Communication Networks&lt;/em&gt;&lt;/a&gt; (by Telecom Paris-Sud)
+&lt;br /&gt;Introduction to practical and theoretical research in networks and computer science. It gives students the opportunity to deepen their technical knowledge through computer science methodologies applied to communication networks as well as to discover new emerging research topics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-data-knowledge-d-k&quot;&gt;&lt;em&gt;M2 Data &amp;amp; Knowledge (D&amp;amp;K)&lt;/em&gt;&lt;/a&gt; (by LRI and Telecom ParisTech)
+&lt;br /&gt;Introduction to web data management, knowledge &amp;amp; semantics, big data, artificial intelligence, and data analytics from a semantic point of view.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-modeles-et-technologies-pour-le-decisionnel-decision-support-and-business&quot;&gt;&lt;em&gt;M2 Decision Support and Business Intelligence&lt;/em&gt;&lt;/a&gt; (by CentraleSupélec)
+&lt;br /&gt;This Master’s program aims to provide the key elements required to meet these challenges that are: machine learning, visualization analytics, decision modeling,  graph data management and analytics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-interaction-human-computer-interaction-hci&quot;&gt;&lt;em&gt;M2 Human Computer Interaction (HCI)&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud and LRI)
+&lt;br /&gt;This master provides students with fundamental knowledge and advanced techniques to design, develop and evaluate interactive systems that are adapted to the needs of their users. It trains specialists in Human-Computer Interaction and prepares them to careers in academia, industrial R&amp;amp;D and any company that develops interactive systems.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are comfortable with French (&lt;em&gt;et c’est une excellente chose !&lt;/em&gt;), Paris-Saclay University also offers masters in French &lt;strong&gt;and&lt;/strong&gt; English, you will find the list and a detailed presentation on this &lt;a href=&quot;https://universite-paris-saclay.fr/en/master-degrees-taught-in-french-and-english&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/parissaclay-photo2.jpg&quot; alt=&quot;Paris-Saclay campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;campus--student-life-at-paris-saclay-university&quot;&gt;Campus &amp;amp; Student Life at Paris-Saclay University&lt;/h2&gt;
+&lt;p&gt;Paris-Saclay is probably the biggest hub of clubs in France, with more than 600 student organizations on the main campus. With many students, the University also offers housing solutions with the [Versailles’ CROUS[http://www.crous-versailles.fr/en) or &lt;a href=&quot;https://www.heberjeunes.fr/en/&quot;&gt;Héberjeunes&lt;/a&gt;. From 2018, 5000 new students’s residences will be built. Accommodation would be of different types and would represent a surface area of around 27 hectares.&lt;/p&gt;
+
+&lt;p&gt;RER B (a regional train) goes directly to the university. In 2024, the &lt;em&gt;Grand Paris&lt;/em&gt; (Metro Line 18) project will enable nine identified areas (including Paris-Saclay) to be served, all of which represent economic development centers, bringing together companies, institutions and university and research establishments.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Guillaume GARRETA&lt;/strong&gt; &lt;br /&gt; Director of International Development  &lt;br /&gt; &lt;em&gt;guillaume.garreta@universite-paris-saclay.fr&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42126.02946861107!2d2.1175044791015556!3d48.70783489999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f6794d18479%3A0xf281f304394e3a1c!2sUniversit%C3%A9+Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1566146063955!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 
       
       
@@ -225,7 +290,118 @@ As for the other schools or universities presented here, you will find many club
       
 
       
-        <summary type="html">Isep</summary>
+        <summary type="html">Unlike all the schools I mentioned here, Paris-Saclay University is not just a simple university but a group of universities in Île-de-France Region specializing in many scientific fields. Paris-Saclay also brings together France’s largest technology hub and offers to French and international students world-renowned degrees.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Isep</title>
+      <link href="http://localhost:4000/roadtoit/isep" rel="alternate" type="text/html" title="Isep" />
+      <published>2019-03-02T11:42:00+01:00</published>
+      <updated>2019-03-02T11:42:00+01:00</updated>
+      <id>http://localhost:4000/roadtoit/isep</id>
+      <content type="html" xml:base="http://localhost:4000/roadtoit/isep">&lt;p&gt;Just minutes from the Montparnasse Tower and train station, Isep is a private engineering school specializing in digital technologies (IT, electronics, multimedia, networks) and attached to the Catholic University of Paris. Isep offers different courses for international students over different periods (semester, year).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 School Name&lt;/td&gt;
+      &lt;td&gt;Institut supérieur d’électronique de Paris (Isep)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France and Issy-les-Moulineaux, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;⚖️ Type&lt;/td&gt;
+      &lt;td&gt;Private Engineering School&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;📆 Course Duration&lt;/td&gt;
+      &lt;td&gt;18 months to 3 years&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
+      &lt;td&gt;Accepted&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;≈ 8900€/year + fees&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/isep-photo.jpg&quot; alt=&quot;Isep campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;3-programs-3-majors-3-ways-of-thinking&quot;&gt;3 programs, 3 majors, 3 ways of thinking&lt;/h2&gt;
+
+&lt;p&gt;Isep offers 3 courses for foreign students, depending on their degree. The school offers to students coming under International Exchange Programs, such as Erasmus+, GE4, Micefa or Bilateral Agreement, to select modules of courses from a variety of topics or to choose one major.&lt;/p&gt;
+
+&lt;p&gt;But if you have a post secondary degree in Sciences, you can apply to the &lt;em&gt;Internatioanl Integrated Cycle (CII) Program&lt;/em&gt;, composed of 2 years of preparatory cycle (called &lt;em&gt;classe préparatoire&lt;/em&gt; in French) then 3 years of engineering cycle, where you can choose from 8 majors, including 3 in English : &lt;em&gt;Software Engineering&lt;/em&gt;, &lt;em&gt;Embedded systems&lt;/em&gt; and &lt;em&gt;Wireless Telecommunications/IoT systems&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;If you already have a Bachelor’s degree or equivalent, you can apply directly to the &lt;a href=&quot;https://en.isep.fr/wp-content/uploads/sites/5/2018/10/en.isep.fr-isep-international-2019-bd.pdf&quot;&gt;&lt;em&gt;Engineering Master Degree program&lt;/em&gt;&lt;/a&gt;, composed of the 3 years with the 3 majors mentioned above.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you consider yourself more like a &lt;em&gt;developer who likes to code&lt;/em&gt;, I advise you to choose the major &lt;em&gt;Software Engineering&lt;/em&gt;. You will learn mainly advanced algorithms (in Java) and fundamentals of networks, cybersecurity, big data or IoT, not to mention management courses or web/mobile. An excellent springboard to become an IT consultant, project manager or a mobile/desktop developer engineer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fan of IoT and connected objects ? &lt;em&gt;Wireless Telecommunication and IoT Systems&lt;/em&gt; can be a very interesting professional opportunity because it combines computer skills (networks, security, oriented programming, protocols) and electronic skills (sensors, micro-controllers, component optimization, telecommunication). Of course, management and marketing are not neglected.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Finally, &lt;em&gt;Embedded Systems&lt;/em&gt; is intended for future engineers who wish to work in specialized industries, such as aeronautics, the military, the space industry, energy, telecommunications and more. You will work mainly on advanced electronic solutions, like robotics or networks, as well as systems architecture (CPU design, memory hierarchy, logic design, instruction set architecture, …).&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;For the 3 majors, you will have to do an internship at the end of your studies, but as for many institutions that I presented here, find an internship is not complicated, companies often come directly to you !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/isep-photo2.jpg&quot; alt=&quot;Isep campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;student-life&quot;&gt;Student Life&lt;/h2&gt;
+&lt;p&gt;Over more than 30 clubs help build lasting relationship with classmates and develop leadership and entrepreneurial skills. You can find a list of clubs (with a presentation and list of members) on the &lt;a href=&quot;https://iseplive.fr/associations&quot;&gt;IsepLive platform&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Thomas EA&lt;/strong&gt; &lt;br /&gt; Head of International relations &lt;br /&gt; &lt;em&gt;+33 (0)1 49 54 52 24&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10502.689451170862!2d2.3281109!3d48.8453879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9bd1ac22c478d56e!2sISEP!5e0!3m2!1sfr!2sfr!4v1566144808216!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="schools" />
+      
+
+      
+        <summary type="html">Just minutes from the Montparnasse Tower and train station, Isep is a private engineering school specializing in digital technologies (IT, electronics, multimedia, networks) and attached to the Catholic University of Paris. Isep offers different courses for international students over different periods (semester, year).</summary>
       
 
       
@@ -649,92 +825,6 @@ By training young people from all horizons, École 42 intends to highlight the c
 
       
         <summary type="html">École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the “self-study” learning method through dozens of projects and programming rushs (called “pools”).</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Test</title>
-      <link href="http://localhost:4000/roadtoit/test" rel="alternate" type="text/html" title="Test" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/roadtoit/test</id>
-      <content type="html" xml:base="http://localhost:4000/roadtoit/test">&lt;p&gt;Rapide présentation de l’école et des principaux axes éducatifs.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 School Name&lt;/td&gt;
-      &lt;td&gt;The Famous French School&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;⚖️ Type&lt;/td&gt;
-      &lt;td&gt;High School&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;📆 Course Duration&lt;/td&gt;
-      &lt;td&gt;6 months&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
-      &lt;td&gt;Accepted&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;420€/semester&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
-
-&lt;p&gt;Blablablabla&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="schools" />
-      
-
-      
-        <summary type="html">Rapide présentation de l’école et des principaux axes éducatifs.</summary>
       
 
       
