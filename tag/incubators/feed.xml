@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
-  <link href="http://localhost:4000/roadtoit/tag/incubators/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="http://localhost:4000/roadtoit/" rel="alternate" type="text/html" />
-  <updated>2019-08-18T19:32:12+02:00</updated>
-  <id>http://localhost:4000/roadtoit/tag/incubators/feed.xml</id>
+  <link href="http://localhost:4000/tag/incubators/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-08-18T19:36:49+02:00</updated>
+  <id>http://localhost:4000/tag/incubators/feed.xml</id>
 
   
   
@@ -47,11 +47,11 @@
   
     <entry>
       <title type="html">Test incubator</title>
-      <link href="http://localhost:4000/roadtoit/incubator" rel="alternate" type="text/html" title="Test incubator" />
+      <link href="http://localhost:4000/incubator" rel="alternate" type="text/html" title="Test incubator" />
       <published>2019-03-02T11:42:00+01:00</published>
       <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/roadtoit/incubator</id>
-      <content type="html" xml:base="http://localhost:4000/roadtoit/incubator">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+      <id>http://localhost:4000/incubator</id>
+      <content type="html" xml:base="http://localhost:4000/incubator">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
