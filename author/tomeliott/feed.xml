@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/author/tomeliott/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-21T14:21:23+02:00</updated>
+  <updated>2019-08-21T16:47:19+02:00</updated>
   <id>http://localhost:4000/author/tomeliott/feed.xml</id>
 
   
@@ -247,12 +247,12 @@ As for the other schools or universities presented here, you will find many club
     </entry>
   
     <entry>
-      <title type="html">La Rûche</title>
-      <link href="http://localhost:4000/laruche" rel="alternate" type="text/html" title="La Rûche" />
+      <title type="html">La Ruche</title>
+      <link href="http://localhost:4000/laruche" rel="alternate" type="text/html" title="La Ruche" />
       <published>2019-03-02T11:42:00+01:00</published>
       <updated>2019-03-02T11:42:00+01:00</updated>
       <id>http://localhost:4000/laruche</id>
-      <content type="html" xml:base="http://localhost:4000/laruche">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/laruche">&lt;p&gt;La Ruche (&lt;em&gt;hive&lt;/em&gt; in English) is a network of incubators dedicated to social innovation. Its action includes co-working, incubation, events, but also the establishment of large-scale partnerships allowing each actor or startup to give birth to his project or idea in the best conditions, be it at Paris, in the region or in the whole of France with different “hives”.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -264,30 +264,59 @@ As for the other schools or universities presented here, you will find many club
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;The Famous French School&lt;/td&gt;
+      &lt;td&gt;La Ruche&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France&lt;/td&gt;
+      &lt;td&gt;Paris - Saint-Germain-en-Laye, France&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;3200 m2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;125 projects per year&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;La Ruche offers an incubation program for women in tech, &lt;br /&gt;called &lt;a href=&quot;https://www.les-audacieuses.org&quot;&gt;&lt;em&gt;“Les Audacieuses”&lt;/em&gt;&lt;/a&gt; and member of the &lt;a href=&quot;http://www.les-ambitieuses.tech&quot;&gt;&lt;em&gt;Tech for Good&lt;/em&gt;&lt;/a&gt; project&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;xxx €&lt;/td&gt;
+      &lt;td&gt;Starting at 145€/month&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+&lt;p&gt;Launched 11 ago with the conviction that a responsible and collaborative society was possible, La Ruche offers a range of services for entrepreneurs and young startups, from incubation to growth through advice and co-working spaces in all France.&lt;/p&gt;
 
-&lt;p&gt;Blablablabla&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/laruche-photo.jpg&quot; alt=&quot;La Ruche HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;the-place-to-bee&quot;&gt;&lt;em&gt;“The Place to Bee”&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;From hackatons to half-day to several days trainings, La Ruche offers a range of support for entrepreneurs and startups. In 1 year, more than 125 projects were incubated with an 83% survival rate of incubated entrepreneurs in the first 3 years.&lt;/p&gt;
+
+&lt;p&gt;Regarding the workspaces, I will focus on HQs in Île-de-France and Paris Region, but La Ruche also has workspaces in &lt;a href=&quot;https://la-ruche.net/ruche/bordeaux/&quot;&gt;Bordeaux&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/marseille/&quot;&gt;Marseille&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/saint-nazaire/&quot;&gt;Saint-Nazaire&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/montpellier/&quot;&gt;Montpellier&lt;/a&gt; and more.&lt;/p&gt;
+
+&lt;p&gt;With 3200m² dedicated to the positive economy and a terrace of more than 200m² in Paris, La Ruche welcomes project leaders driven by social entrepreneurship, digital technology and culture.
+You find an astonishing diversity among co-workers, such as entrepreneurs, associations, employees, teleworkers, self-employed and intrapreneurs. Each category has its own tariff range adapted to its needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/laruche-photo2.jpg&quot; alt=&quot;La Ruche HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;programs-for-all&quot;&gt;Programs for all&lt;/h2&gt;
+
+&lt;p&gt;La Ruche offers special rates for everyone, and offers 5 programs :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Closed offices&lt;/strong&gt; (starting 1k€/month) with offices for up to 20 people, with a commitment of 6 months and unlimited access.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Full time program&lt;/strong&gt; (starting at 350€/month) with unlimited access, a fixed office for 1 person and a 3-month commitment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Half time program&lt;/strong&gt; (starting at 235€/month) with an access 20 half-days (or 10 days per month), a fixed office for 1 person and a 2-month commitment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quarter time program&lt;/strong&gt; (starting at 145€/month) with an access 10 half-days (or 5 days per month), a fixed office for 1 person and a 2-month commitment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Full time company program&lt;/strong&gt; (starting at 500€/month) with unlimited access and more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Startups have free Internet, printer, an access to 9 meeting rooms, a 220m² terrace, a kitchen/sleep room, training sessions, an access to meeting-space for your public events and of course, national professionals from La Ruche’s network.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Le +&lt;/em&gt; : As a &lt;em&gt;Paris Innovation&lt;/em&gt; certified incubator by the Paris City Hall, startups located in La Ruche can apply for a funding with &lt;a href=&quot;https://www.economie.gouv.fr/entreprises/financez-votre-projet-innovant-grace-a-paris-innovation-amorcage&quot;&gt;&lt;em&gt;Paris Innovation Amorçage&lt;/em&gt; funding program&lt;/a&gt;. Created to support the development of startups hosted in incubators labeled &lt;em&gt;Paris Innovation&lt;/em&gt;, it is aimed at any innovative project in the seed or development phase.
+Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images/71646&quot;&gt;detailed presentation&lt;/a&gt; of this program and to contact, as the case may be, the &lt;a href=&quot;http://www.bpifrance.fr/Contactez-nous/Direction-regionale-Paris&quot;&gt;Paris Regional Office of &lt;em&gt;Bpifrance Île de France&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -297,10 +326,12 @@ As for the other schools or universities presented here, you will find many club
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;La Ruche® Paris&lt;/strong&gt; &lt;br /&gt; 24 Rue de l’Est &lt;br /&gt; 75020 Paris &lt;br /&gt; &lt;em&gt;paris@la-ruche.net&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33 (0)1 83 64 59 04&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content>
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10497.279555023!2d2.3934424!3d48.8711781!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9637fb10c7b597f2!2sLa+Ruche!5e0!3m2!1sfr!2sfr!4v1566395464386!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 
       
       
@@ -321,7 +352,7 @@ As for the other schools or universities presented here, you will find many club
       
 
       
-        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+        <summary type="html">La Ruche (hive in English) is a network of incubators dedicated to social innovation. Its action includes co-working, incubation, events, but also the establishment of large-scale partnerships allowing each actor or startup to give birth to his project or idea in the best conditions, be it at Paris, in the region or in the whole of France with different “hives”.</summary>
       
 
       
