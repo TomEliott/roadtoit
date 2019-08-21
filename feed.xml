@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-21T13:25:19+02:00</updated><id>http://localhost:4000/</id><title type="html">RoadToIT</title><subtitle>A blog about IT in Île-de-France region</subtitle><entry><title type="html">Sorbonne University</title><link href="http://localhost:4000/sorbonneuniversity" rel="alternate" type="text/html" title="Sorbonne University" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/sorbonneuniversity</id><content type="html" xml:base="http://localhost:4000/sorbonneuniversity">&lt;p&gt;Created by the merger between highly reputable universities UPMC and Paris Sorbonne, Sorbonne University is one of the biggest Parisian universities, with more than 55,000 students on its various campuses. The University offers several courses in computer science, in French or in English, for long or short periods.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-21T14:17:02+02:00</updated><id>http://localhost:4000/</id><title type="html">RoadToIT</title><subtitle>A blog about IT in Île-de-France region</subtitle><entry><title type="html">Sorbonne University</title><link href="http://localhost:4000/sorbonneuniversity" rel="alternate" type="text/html" title="Sorbonne University" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/sorbonneuniversity</id><content type="html" xml:base="http://localhost:4000/sorbonneuniversity">&lt;p&gt;Created by the merger between highly reputable universities UPMC and Paris Sorbonne, Sorbonne University is one of the biggest Parisian universities, with more than 55,000 students on its various campuses. The University offers several courses in computer science, in French or in English, for long or short periods.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -642,7 +642,7 @@ By training young people from all horizons, École 42 intends to highlight the c
       &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="incubators" /><summary type="html">Founded in 2013 by EPITA, Startup42 is a “fast &amp;amp; serious” project accelerator</summary></entry><entry><title type="html">Pépinière 27</title><link href="http://localhost:4000/pepiniere27" rel="alternate" type="text/html" title="Pépinière 27" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/pepiniere27</id><content type="html" xml:base="http://localhost:4000/pepiniere27">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+&lt;/table&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="incubators" /><summary type="html">Founded in 2013 by EPITA, Startup42 is a “fast &amp;amp; serious” project accelerator</summary></entry><entry><title type="html">Pépinière 27</title><link href="http://localhost:4000/pepiniere27" rel="alternate" type="text/html" title="Pépinière 27" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/pepiniere27</id><content type="html" xml:base="http://localhost:4000/pepiniere27">&lt;p&gt;With more than 100 startups incubated in a general and multi-disciplinary ecosystem, Pépinière 27 is a Parisian incubator offering both a flexible hosting and support services, but also a rich and inspiring infrastructure, like a natural greenhouse where knowledge flourishes.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -679,9 +679,32 @@ By training young people from all horizons, École 42 intends to highlight the c
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+&lt;p&gt;What’s more inspiring than a natural-looking greenhouse with an important infrastructure and quality accommodation, all in the heart of Paris ? Powered by the &lt;em&gt;Paris Innovation&lt;/em&gt; label, Pépinière 27 is the ultimate friendly incubator with nearly 4 million euros raised by only 8 startups of the incubator.&lt;/p&gt;
 
-&lt;p&gt;Blablablabla&lt;/p&gt;
+&lt;p&gt;In this  friendly ecosystem, you have the choice between open or closed offices according to your needs, with a large common area free co-working, a waiting room, 9 meeting rooms fully equipped and relaxation areas (gym, patio). The team is composed of only 10 people with always a presence in the HQ.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/pepiniere27-photo.jpg&quot; alt=&quot;Pépinière 27 HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;an-accompanying-offer&quot;&gt;An accompanying offer&lt;/h2&gt;
+
+&lt;p&gt;Providing to startups an offer of hosting to work is something great, but an incubator would not be an incubator if it did not offer a continuous support. Thus, Pépinière 27 offers business workshops, networking meetings, conferences, networking with experts in your field, as well as an access to a social platform bringing together all incubated startups.&lt;/p&gt;
+
+&lt;p&gt;Pépinière 27 offers 3 programs for startups. &lt;strong&gt;Offices open&lt;/strong&gt; starting at 560€/month (+ fees) or &lt;strong&gt;private&lt;/strong&gt; (starting at 680€/month + fees) with the possibility of joining the &lt;strong&gt;Associate Program&lt;/strong&gt;, allowing you to get :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A postal address at &lt;em&gt;27 rue du Chemin Vert (Paris 75011)&lt;/em&gt; with the management of your receptions and mailings stamped.&lt;/li&gt;
+  &lt;li&gt;A permanent access badge to the premises (24h/24 and 7/7)&lt;/li&gt;
+  &lt;li&gt;An access to the meeting rooms for the reception of your customers (according to availability)&lt;/li&gt;
+  &lt;li&gt;A permanent access to the gym room&lt;/li&gt;
+  &lt;li&gt;An access to the cafeteria&lt;/li&gt;
+  &lt;li&gt;A profile of your company on the Pépinière 27’s intranet (news feed, events, meeting rooms booking, chat, …)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/pepiniere27-photo2.jpg&quot; alt=&quot;Pépinière 27 HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;certified-paris-innovation-by-the-city-of-paris&quot;&gt;Certified &lt;em&gt;Paris Innovation&lt;/em&gt; by the City of Paris&lt;/h2&gt;
+
+&lt;p&gt;As a &lt;em&gt;Paris Innovation&lt;/em&gt; certified incubator by the Paris City Hall, startups located in Pépinière 27 can apply for a funding with &lt;a href=&quot;https://www.economie.gouv.fr/entreprises/financez-votre-projet-innovant-grace-a-paris-innovation-amorcage&quot;&gt;&lt;em&gt;Paris Innovation Amorçage&lt;/em&gt; funding program&lt;/a&gt;. Created to support the development of startups hosted in incubators labeled &lt;em&gt;Paris Innovation&lt;/em&gt;, it is aimed at any innovative project in the seed or development phase.
+Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images/71646&quot;&gt;detailed presentation&lt;/a&gt; of this program and to contact, as the case may be, the &lt;a href=&quot;http://www.bpifrance.fr/Contactez-nous/Direction-regionale-Paris&quot;&gt;Paris Regional Office of &lt;em&gt;Bpifrance Île de France&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To learn more about Pépinière 27, the reception is open from 9am to 6:30pm, if you want to have a preview of the atmosphere and the place, &lt;a href=&quot;http://www.pepiniere27.fr/creation-entreprises/paris-centre/contact&quot;&gt;don’t hesitate to go there&lt;/a&gt;. It’s  only 5 minutes from the &lt;em&gt;Place de la Bastille&lt;/em&gt; !&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -696,4 +719,4 @@ By training young people from all horizons, École 42 intends to highlight the c
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10499.910448879366!2d2.3730712!3d48.8586373!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x168725100877ba2b!2zUMOpcGluacOocmUgMjc!5e0!3m2!1sfr!2sfr!4v1566386492346!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="incubators" /><summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary></entry></feed>
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10499.910448879366!2d2.3730712!3d48.8586373!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x168725100877ba2b!2zUMOpcGluacOocmUgMjc!5e0!3m2!1sfr!2sfr!4v1566386492346!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="incubators" /><summary type="html">With more than 100 startups incubated in a general and multi-disciplinary ecosystem, Pépinière 27 is a Parisian incubator offering both a flexible hosting and support services, but also a rich and inspiring infrastructure, like a natural greenhouse where knowledge flourishes.</summary></entry></feed>
