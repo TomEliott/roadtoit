@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/author/tomeliott/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-18T19:36:49+02:00</updated>
+  <updated>2019-08-21T13:25:19+02:00</updated>
   <id>http://localhost:4000/author/tomeliott/feed.xml</id>
 
   
@@ -158,6 +158,522 @@ As for the other schools or universities presented here, you will find many club
 
       
         <summary type="html">Created by the merger between highly reputable universities UPMC and Paris Sorbonne, Sorbonne University is one of the biggest Parisian universities, with more than 55,000 students on its various campuses. The University offers several courses in computer science, in French or in English, for long or short periods.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">IncubAlliance</title>
+      <link href="http://localhost:4000/incuballiance" rel="alternate" type="text/html" title="IncubAlliance" />
+      <published>2019-03-02T11:42:00+01:00</published>
+      <updated>2019-03-02T11:42:00+01:00</updated>
+      <id>http://localhost:4000/incuballiance</id>
+      <content type="html" xml:base="http://localhost:4000/incuballiance">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;The Famous French School&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;xxx €&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">La Rûche</title>
+      <link href="http://localhost:4000/laruche" rel="alternate" type="text/html" title="La Rûche" />
+      <published>2019-03-02T11:42:00+01:00</published>
+      <updated>2019-03-02T11:42:00+01:00</updated>
+      <id>http://localhost:4000/laruche</id>
+      <content type="html" xml:base="http://localhost:4000/laruche">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;The Famous French School&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;xxx €&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">NUMA</title>
+      <link href="http://localhost:4000/numa" rel="alternate" type="text/html" title="NUMA" />
+      <published>2019-03-02T11:42:00+01:00</published>
+      <updated>2019-03-02T11:42:00+01:00</updated>
+      <id>http://localhost:4000/numa</id>
+      <content type="html" xml:base="http://localhost:4000/numa">&lt;p&gt;Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;NUMA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;NUMA offers a free open-space with bar on the ground floor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;Free co-working space &lt;br /&gt; Privatization of rooms from 1200€/day&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;It all started in 2000 with &lt;em&gt;Silicon Sentier&lt;/em&gt;, an entrepreneur association with more than 180 partner companies. Their initial objective was to encourage meetings between entrepreneurs and to allow new projects to emerge and floor on the &lt;em&gt;Next Big Thing&lt;/em&gt;. The idea was to design a network capable of promoting and facilitating the development of entrepreneurship at the national level, and that’s what became NUMA today.&lt;/p&gt;
+
+&lt;p&gt;NUMA is not only an open space for entrepreneurs or small businesses today, it’s a hub of more than 300 organizations, including CAC40 leaders and hundreds of startups - with a presence in Paris, Barcelona, Mexico, Toulouse, Berlin and even New York.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/numa-photo.jpg&quot; alt=&quot;NUMA HQ&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;not-only-an-open-space&quot;&gt;Not only an open-space&lt;/h2&gt;
+
+&lt;p&gt;The first time I went to NUMA, it was just to have a place where to discuss professionally with other students, entrepreneurs and business leaders, I also discovered a free space co-working on the ground floor, with possibility to rent different rooms for &lt;a href=&quot;https://www.numa.co/fr/reservation-de-salles&quot;&gt;private meetings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But my biggest surprise was to discover the “formations”. Today, the challenge is not only to master the technical aspect of a project but also the notions of management, intrapreneurship, design thinking and digital marketing. And guess what? That’s exactly what NUMA offers. In fact, we understand quickly that we do not invest only in a HQ or a place to work, but in a long-term support of your project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/numa-photo2.jpg&quot; alt=&quot;NUMA HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;to-infinity-and-beyond&quot;&gt;“To infinity and beyond”&lt;/h2&gt;
+
+&lt;p&gt;Regarding the incubation program, NUMA brings its expertise to startups already on the market and having a consequent turnover, for 3.5 % equity participation.
+NUMA’s philosophy is based on the development of the startups’ business and network, the implementation of a rigorous and effective methodology for executing their strategy as well as long-term support through a mentoring system with experts.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Looking for something fun to do there, to discover the atmosphere of NUMA ? Do not hesitate to visit “La Cantine”, the first collaborative workspace created in Île-de-France Region, where many celebrities have passed to make conferences and exchange with members, like Mark Zuckerberg.&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;NUMA Paris&lt;/strong&gt; &lt;br /&gt; 39 Rue du Caire&lt;br /&gt; 75002 Paris &lt;br /&gt; &lt;em&gt;+33 (0)1 40 13 64 40&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10498.002257592629!2d2.3497182!3d48.8677334!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1715b707d5c6af5e!2sNuma+Paris!5e0!3m2!1sfr!2sfr!4v1566312566704!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Pépinière 27</title>
+      <link href="http://localhost:4000/pepiniere27" rel="alternate" type="text/html" title="Pépinière 27" />
+      <published>2019-03-02T11:42:00+01:00</published>
+      <updated>2019-03-02T11:42:00+01:00</updated>
+      <id>http://localhost:4000/pepiniere27</id>
+      <content type="html" xml:base="http://localhost:4000/pepiniere27">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;Pépinière 27&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;3500 m2 of offices, 100 m2 of common areas &lt;br /&gt; + gym room, relaxation area, …&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Pépinière 27 is labeled &lt;em&gt;“Paris Innovation”&lt;/em&gt; by the City of Paris &lt;br /&gt;+ Access to the &lt;a href=&quot;https://www.economie.gouv.fr/entreprises/financez-votre-projet-innovant-grace-a-paris-innovation-amorcage&quot;&gt;“PIA” (&lt;em&gt;Paris Innovation Amorçage&lt;/em&gt;) funding program&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;Starting at 250€/month&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Pépinière 27&lt;/strong&gt; &lt;br /&gt; 27 Rue du chemin vert &lt;br /&gt; 75013 Paris &lt;br /&gt; &lt;em&gt;+33 (0)1 75 77 87 00&lt;/em&gt; &lt;br /&gt; &lt;em&gt;contact@pepiniere27.fr&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10499.910448879366!2d2.3730712!3d48.8586373!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x168725100877ba2b!2zUMOpcGluacOocmUgMjc!5e0!3m2!1sfr!2sfr!4v1566386492346!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Startup42</title>
+      <link href="http://localhost:4000/startup42" rel="alternate" type="text/html" title="Startup42" />
+      <published>2019-03-02T11:42:00+01:00</published>
+      <updated>2019-03-02T11:42:00+01:00</updated>
+      <id>http://localhost:4000/startup42</id>
+      <content type="html" xml:base="http://localhost:4000/startup42">&lt;p&gt;Founded in 2013 by &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;, Startup42 is a “fast &amp;amp; serious” project accelerator&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;StartUp42 by EPITA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Kremlin-Bicêtre, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;NC&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Founded in 2013 by EPITA, Startup42 is a “fast &amp;amp; serious” project accelerator</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Station F</title>
+      <link href="http://localhost:4000/stationf" rel="alternate" type="text/html" title="Station F" />
+      <published>2019-03-02T11:42:00+01:00</published>
+      <updated>2019-03-02T11:42:00+01:00</updated>
+      <id>http://localhost:4000/stationf</id>
+      <content type="html" xml:base="http://localhost:4000/stationf">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;STATION F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;xxx €&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
       
 
       
@@ -480,433 +996,6 @@ By training young people from all horizons, École 42 intends to highlight the c
 
       
         <summary type="html">Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Epitech</title>
-      <link href="http://localhost:4000/epitech" rel="alternate" type="text/html" title="Epitech" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/epitech</id>
-      <content type="html" xml:base="http://localhost:4000/epitech">&lt;p&gt;Epitech (also called European Institute of Technology) is private Computer Science School with multiple campuses around the world and in Europe. The school offers computer courses to international and exchange students.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 School Name&lt;/td&gt;
-      &lt;td&gt;École pour l’Informatique et les Nouvelles Technologies (EPITECH)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Kremlin-Bicêtre, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;⚖️ Type&lt;/td&gt;
-      &lt;td&gt;Private Computer Science School&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;📆 Course Duration&lt;/td&gt;
-      &lt;td&gt;5 years&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
-      &lt;td&gt;Accepted&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;6630€/year to 8580€/year (+ fees)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Based on EPITA computer science courses, Epitech is a private Computer Science School with numerous campuses in Europe and in the world. With more than 5000 students, Epitech uses self-study method, mainly in group projects and with very few hours of theoretical courses, all supervised by students from the higher grades.&lt;/p&gt;
-
-&lt;p&gt;Most of the students work from their personal computer and manage their own projects themselves, allowing them to gain autonomy. In contrast to EPITA, theoretical scientific subjects such as mathematics or physics are thus not addressed during the course.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epitech-photo2.jpg&quot; alt=&quot;EPITECH campus&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;different-courses-for-different-profiles&quot;&gt;Different courses for different profiles&lt;/h2&gt;
-&lt;p&gt;The school has several rooms equipped with powerful computers and the Epitech Innovation Hub offers a place with all the equipment and environment for enthusiasts to design innovative technological solutions.&lt;/p&gt;
-
-&lt;p&gt;Epitech offers two main courses. The first, the Bachelor program, takes place in 3 years. You learn the fundamentals using projects and “pools” (rush of programming) : you will have nearly 37 projects in 3 years, as well as management training courses.
-At the end of the first 3 years, you can continue with the Advanced/Expert program (in 2 years, in addition to the first 3 years), you obtain a postgraduate degree “Expert in Information Technology”, accredited level 1 by the National Commission for Vocational Certifications, with the possibility of doing a double degree with ISG, a French business school in Paris.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epitech-photo.jpg&quot; alt=&quot;EPITECH campus&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;an-influential-student-community&quot;&gt;An influential student community&lt;/h2&gt;
-&lt;p&gt;Epitech not only shares its campus with EPITA, but also its hundreds of clubs. You will find video game, movies, programming, photo clubs and more. Epitech students also have access to a set of common services at the technology campus : network of associations, large cafeteria and more. Epitech  also enjoys privileged access to numerous student residences : 2 at the Kremlin Bicêtre (including one on campus) and another in Villejuif (10-15 minutes from Paris). &lt;em&gt;Le +&lt;/em&gt; : The Val-de-Marne department offers a &lt;a href=&quot;https://www.valdemarne.fr/a-votre-service/deplacement/transports/remboursement-de-la-carte-imagine-r&quot;&gt;refund of part of your transport costs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Ksenia ANDREEVA&lt;/strong&gt; &lt;br /&gt; Head of International Education Office &lt;br /&gt; &lt;em&gt;ksenia.andreeva@epitech.eu&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33 (0)1 84 07 14 12&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42014.45684238378!2d2.3332073273819454!3d48.84097834703352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6717ff972ae09%3A0x692326b123aa4d9b!2sEpitech+Paris!5e0!3m2!1sfr!2sfr!4v1565026117017!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="schools" />
-      
-
-      
-        <summary type="html">Epitech (also called European Institute of Technology) is private Computer Science School with multiple campuses around the world and in Europe. The school offers computer courses to international and exchange students.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Isep</title>
-      <link href="http://localhost:4000/isep" rel="alternate" type="text/html" title="Isep" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/isep</id>
-      <content type="html" xml:base="http://localhost:4000/isep">&lt;p&gt;Just minutes from the Montparnasse Tower and train station, Isep is a private engineering school specializing in digital technologies (IT, electronics, multimedia, networks) and attached to the Catholic University of Paris. Isep offers different courses for international students over different periods (semester, year).&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 School Name&lt;/td&gt;
-      &lt;td&gt;Institut supérieur d’électronique de Paris (Isep)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France and Issy-les-Moulineaux, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;⚖️ Type&lt;/td&gt;
-      &lt;td&gt;Private Engineering School&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;📆 Course Duration&lt;/td&gt;
-      &lt;td&gt;18 months to 3 years&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
-      &lt;td&gt;Accepted&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;≈ 8900€/year + fees&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/isep-photo.jpg&quot; alt=&quot;Isep campus&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;3-programs-3-majors-3-ways-of-thinking&quot;&gt;3 programs, 3 majors, 3 ways of thinking&lt;/h2&gt;
-
-&lt;p&gt;Isep offers 3 courses for foreign students, depending on their degree. The school offers to students coming under International Exchange Programs, such as Erasmus+, GE4, Micefa or Bilateral Agreement, to select modules of courses from a variety of topics or to choose one major.&lt;/p&gt;
-
-&lt;p&gt;But if you have a post secondary degree in Sciences, you can apply to the &lt;em&gt;Internatioanl Integrated Cycle (CII) Program&lt;/em&gt;, composed of 2 years of preparatory cycle (called &lt;em&gt;classe préparatoire&lt;/em&gt; in French) then 3 years of engineering cycle, where you can choose from 8 majors, including 3 in English : &lt;em&gt;Software Engineering&lt;/em&gt;, &lt;em&gt;Embedded systems&lt;/em&gt; and &lt;em&gt;Wireless Telecommunications/IoT systems&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;If you already have a Bachelor’s degree or equivalent, you can apply directly to the &lt;a href=&quot;https://en.isep.fr/wp-content/uploads/sites/5/2018/10/en.isep.fr-isep-international-2019-bd.pdf&quot;&gt;&lt;em&gt;Engineering Master Degree program&lt;/em&gt;&lt;/a&gt;, composed of the 3 years with the 3 majors mentioned above.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;If you consider yourself more like a &lt;em&gt;developer who likes to code&lt;/em&gt;, I advise you to choose the major &lt;em&gt;Software Engineering&lt;/em&gt;. You will learn mainly advanced algorithms (in Java) and fundamentals of networks, cybersecurity, big data or IoT, not to mention management courses or web/mobile. An excellent springboard to become an IT consultant, project manager or a mobile/desktop developer engineer.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fan of IoT and connected objects ? &lt;em&gt;Wireless Telecommunication and IoT Systems&lt;/em&gt; can be a very interesting professional opportunity because it combines computer skills (networks, security, oriented programming, protocols) and electronic skills (sensors, micro-controllers, component optimization, telecommunication). Of course, management and marketing are not neglected.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Finally, &lt;em&gt;Embedded Systems&lt;/em&gt; is intended for future engineers who wish to work in specialized industries, such as aeronautics, the military, the space industry, energy, telecommunications and more. You will work mainly on advanced electronic solutions, like robotics or networks, as well as systems architecture (CPU design, memory hierarchy, logic design, instruction set architecture, …).&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For the 3 majors, you will have to do an internship at the end of your studies, but as for many institutions that I presented here, find an internship is not complicated, companies often come directly to you !&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/isep-photo2.jpg&quot; alt=&quot;Isep campus&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;student-life&quot;&gt;Student Life&lt;/h2&gt;
-&lt;p&gt;Over more than 30 clubs help build lasting relationship with classmates and develop leadership and entrepreneurial skills. You can find a list of clubs (with a presentation and list of members) on the &lt;a href=&quot;https://iseplive.fr/associations&quot;&gt;IsepLive platform&lt;/a&gt;.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Thomas EA&lt;/strong&gt; &lt;br /&gt; Head of International relations &lt;br /&gt; &lt;em&gt;+33 (0)1 49 54 52 24&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10502.689451170862!2d2.3281109!3d48.8453879!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9bd1ac22c478d56e!2sISEP!5e0!3m2!1sfr!2sfr!4v1566144808216!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="schools" />
-      
-
-      
-        <summary type="html">Just minutes from the Montparnasse Tower and train station, Isep is a private engineering school specializing in digital technologies (IT, electronics, multimedia, networks) and attached to the Catholic University of Paris. Isep offers different courses for international students over different periods (semester, year).</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Paris-Saclay University</title>
-      <link href="http://localhost:4000/parissaclay" rel="alternate" type="text/html" title="Paris-Saclay University" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/parissaclay</id>
-      <content type="html" xml:base="http://localhost:4000/parissaclay">&lt;p&gt;Unlike all the schools I mentioned here, Paris-Saclay University is not just a simple university but a group of universities in Île-de-France Region specializing in many scientific fields. Paris-Saclay also brings together France’s largest technology hub and offers to French and international students world-renowned degrees.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 School Name&lt;/td&gt;
-      &lt;td&gt;Université Paris-Saclay&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Saint Aubain, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;⚖️ Type&lt;/td&gt;
-      &lt;td&gt;Community of universities and institutions (Comue)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;📆 Course Duration&lt;/td&gt;
-      &lt;td&gt;3 to 8 years&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;👥 Members&lt;/td&gt;
-      &lt;td&gt;CNRS, CEA, IHES, INRA, INRIA, ONERA, INSERM, AgroParisTech,&lt;br /&gt; CentraleSupélec, ENS, Université Paris-Sud and more&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;Depends on courses, some institutions charge fees&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;I cannot compare the Paris-Saclay University with other schools because the concept is unique in France. Paris-Saclay brings together some ten universities and scientific institutions among the most renowned in the world. In order to synthesize the article as much as possible, I will present only the main courses offered in the field of computer and new technologies, and the student life in Paris-Saclay’s campus.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/parissaclay-photo.jpg&quot; alt=&quot;Paris-Saclay campus&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;masters-degrees-fully-in-english&quot;&gt;Master’s degrees fully in English&lt;/h2&gt;
-&lt;p&gt;The list of all the masters offered by Paris-Saclay Université and its partners is very long, I propose below a presentation of the main masters in English of the Computer Science department (member of the &lt;a href=&quot;https://universite-paris-saclay.fr/en/masters-degrees-in-english&quot;&gt;&lt;em&gt;School Engineering, information science and technology&lt;/em&gt;&lt;/a&gt; department)&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m1-computer-science-international-track#presentation-m1&quot;&gt;&lt;em&gt;M1 Computer science - International track&lt;/em&gt;&lt;/a&gt; (by Telecom Paris-Sud) 
-&lt;br /&gt;Introduction to networks, human-computer interaction and computer science, with two majors : &lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-informatique-pour-les-reseaux-de-communication-computer-science-for&quot;&gt;Computer Networks (CCN)&lt;/a&gt; and &lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-interaction-human-computer-interaction-hci&quot;&gt;Human Computer Interaction (HCI)&lt;/a&gt;.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m1-hcid-eit-digital&quot;&gt;&lt;em&gt;M1 Human Computer Interaction &amp;amp; Design - EIT Digital&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud)
-&lt;br /&gt;Introduction to Human-Computer Interaction and Interactive Systems, with opportunities to choose from majors like IoT, mobile interaction, creative design, audio synthesis, virtual humans, AR and more.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-hcid-eit-digital#presentation-m2&quot;&gt;&lt;em&gt;M2 Human Computer Interaction &amp;amp; Design - EIT Digital&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud)
-&lt;br /&gt; Following M1 above, M2 HCID focuses on the design, development and evaluation of interactive systems that are adapted to users and the context of their use (gestural, mobile, AR/VR, intelligent agents, virtual humans, computer graphics and machine learning).&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-reseaux-de-communications-avances-advanced-communication-networks-acn#presentation-m2&quot;&gt;&lt;em&gt;M2 Advanced Communication Networks (ACN)&lt;/em&gt;&lt;/a&gt; (by Telecom ParisTech and Polytechnique)
-&lt;br /&gt; Understanding network paradigms, architectures, algorithms and technologies, and win a strong expertise in theoretical tools and methods for network performance study and analysis.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-informatique-pour-les-reseaux-de-communication-computer-science-for#presentation-m2&quot;&gt;&lt;em&gt;M2 Computer Science for Communication Networks&lt;/em&gt;&lt;/a&gt; (by Telecom Paris-Sud)
-&lt;br /&gt;Introduction to practical and theoretical research in networks and computer science. It gives students the opportunity to deepen their technical knowledge through computer science methodologies applied to communication networks as well as to discover new emerging research topics.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-data-knowledge-d-k&quot;&gt;&lt;em&gt;M2 Data &amp;amp; Knowledge (D&amp;amp;K)&lt;/em&gt;&lt;/a&gt; (by LRI and Telecom ParisTech)
-&lt;br /&gt;Introduction to web data management, knowledge &amp;amp; semantics, big data, artificial intelligence, and data analytics from a semantic point of view.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-modeles-et-technologies-pour-le-decisionnel-decision-support-and-business&quot;&gt;&lt;em&gt;M2 Decision Support and Business Intelligence&lt;/em&gt;&lt;/a&gt; (by CentraleSupélec)
-&lt;br /&gt;This Master’s program aims to provide the key elements required to meet these challenges that are: machine learning, visualization analytics, decision modeling,  graph data management and analytics.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-interaction-human-computer-interaction-hci&quot;&gt;&lt;em&gt;M2 Human Computer Interaction (HCI)&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud and LRI)
-&lt;br /&gt;This master provides students with fundamental knowledge and advanced techniques to design, develop and evaluate interactive systems that are adapted to the needs of their users. It trains specialists in Human-Computer Interaction and prepares them to careers in academia, industrial R&amp;amp;D and any company that develops interactive systems.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you are comfortable with French (&lt;em&gt;et c’est une excellente chose !&lt;/em&gt;), Paris-Saclay University also offers masters in French &lt;strong&gt;and&lt;/strong&gt; English, you will find the list and a detailed presentation on this &lt;a href=&quot;https://universite-paris-saclay.fr/en/master-degrees-taught-in-french-and-english&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/parissaclay-photo2.jpg&quot; alt=&quot;Paris-Saclay campus&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;campus--student-life-at-paris-saclay-university&quot;&gt;Campus &amp;amp; Student Life at Paris-Saclay University&lt;/h2&gt;
-&lt;p&gt;Paris-Saclay is probably the biggest hub of clubs in France, with more than 600 student organizations on the main campus. With many students, the University also offers housing solutions with the [Versailles’ CROUS[http://www.crous-versailles.fr/en) or &lt;a href=&quot;https://www.heberjeunes.fr/en/&quot;&gt;Héberjeunes&lt;/a&gt;. From 2018, 5000 new students’s residences will be built. Accommodation would be of different types and would represent a surface area of around 27 hectares.&lt;/p&gt;
-
-&lt;p&gt;RER B (a regional train) goes directly to the university. In 2024, the &lt;em&gt;Grand Paris&lt;/em&gt; (Metro Line 18) project will enable nine identified areas (including Paris-Saclay) to be served, all of which represent economic development centers, bringing together companies, institutions and university and research establishments.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Guillaume GARRETA&lt;/strong&gt; &lt;br /&gt; Director of International Development  &lt;br /&gt; &lt;em&gt;guillaume.garreta@universite-paris-saclay.fr&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42126.02946861107!2d2.1175044791015556!3d48.70783489999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f6794d18479%3A0xf281f304394e3a1c!2sUniversit%C3%A9+Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1566146063955!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="schools" />
-      
-
-      
-        <summary type="html">Unlike all the schools I mentioned here, Paris-Saclay University is not just a simple university but a group of universities in Île-de-France Region specializing in many scientific fields. Paris-Saclay also brings together France’s largest technology hub and offers to French and international students world-renowned degrees.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Test incubator</title>
-      <link href="http://localhost:4000/incubator" rel="alternate" type="text/html" title="Test incubator" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/incubator</id>
-      <content type="html" xml:base="http://localhost:4000/incubator">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;The Famous French School&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;xxx €&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
-
-&lt;p&gt;Blablablabla&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="incubators" />
-      
-
-      
-        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
       
 
       

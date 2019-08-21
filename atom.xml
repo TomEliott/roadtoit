@@ -113,7 +113,7 @@
     
       
       <item>
-        <title>Test incubator</title>
+        <title>Station F</title>
         
           <description>&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
 
@@ -121,8 +121,98 @@
         
         <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
         <link>
-        http://localhost:4000/incubator</link>
-        <guid isPermaLink="true">http://localhost:4000/incubator</guid>
+        http://localhost:4000/stationf</link>
+        <guid isPermaLink="true">http://localhost:4000/stationf</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Startup42</title>
+        
+          <description>&lt;p&gt;Founded in 2013 by &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;, Startup42 is a “fast &amp;amp; serious” project accelerator&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/startup42</link>
+        <guid isPermaLink="true">http://localhost:4000/startup42</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Pépinière 27</title>
+        
+          <description>&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/pepiniere27</link>
+        <guid isPermaLink="true">http://localhost:4000/pepiniere27</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>NUMA</title>
+        
+          <description>&lt;p&gt;Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/numa</link>
+        <guid isPermaLink="true">http://localhost:4000/numa</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>La Rûche</title>
+        
+          <description>&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/laruche</link>
+        <guid isPermaLink="true">http://localhost:4000/laruche</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>IncubAlliance</title>
+        
+          <description>&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/incuballiance</link>
+        <guid isPermaLink="true">http://localhost:4000/incuballiance</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>AgoraNov</title>
+        
+          <description>&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/agoranov</link>
+        <guid isPermaLink="true">http://localhost:4000/agoranov</guid>
       </item>
       
     

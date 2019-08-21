@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-18T19:36:49+02:00</updated><id>http://localhost:4000/</id><title type="html">RoadToIT</title><subtitle>A blog about IT in Île-de-France region</subtitle><entry><title type="html">Sorbonne University</title><link href="http://localhost:4000/sorbonneuniversity" rel="alternate" type="text/html" title="Sorbonne University" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/sorbonneuniversity</id><content type="html" xml:base="http://localhost:4000/sorbonneuniversity">&lt;p&gt;Created by the merger between highly reputable universities UPMC and Paris Sorbonne, Sorbonne University is one of the biggest Parisian universities, with more than 55,000 students on its various campuses. The University offers several courses in computer science, in French or in English, for long or short periods.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-21T13:25:19+02:00</updated><id>http://localhost:4000/</id><title type="html">RoadToIT</title><subtitle>A blog about IT in Île-de-France region</subtitle><entry><title type="html">Sorbonne University</title><link href="http://localhost:4000/sorbonneuniversity" rel="alternate" type="text/html" title="Sorbonne University" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/sorbonneuniversity</id><content type="html" xml:base="http://localhost:4000/sorbonneuniversity">&lt;p&gt;Created by the merger between highly reputable universities UPMC and Paris Sorbonne, Sorbonne University is one of the biggest Parisian universities, with more than 55,000 students on its various campuses. The University offers several courses in computer science, in French or in English, for long or short periods.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -546,7 +546,7 @@ By training young people from all horizons, École 42 intends to highlight the c
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10491.943364787661!2d2.318501!3d48.896607!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4e808812dd36a382!2s42!5e0!3m2!1sfr!2sfr!4v1565026855796!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="schools" /><summary type="html">École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the “self-study” learning method through dozens of projects and programming rushs (called “pools”).</summary></entry><entry><title type="html">Test incubator</title><link href="http://localhost:4000/incubator" rel="alternate" type="text/html" title="Test incubator" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/incubator</id><content type="html" xml:base="http://localhost:4000/incubator">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10491.943364787661!2d2.318501!3d48.896607!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4e808812dd36a382!2s42!5e0!3m2!1sfr!2sfr!4v1565026855796!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="schools" /><summary type="html">École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the “self-study” learning method through dozens of projects and programming rushs (called “pools”).</summary></entry><entry><title type="html">Station F</title><link href="http://localhost:4000/stationf" rel="alternate" type="text/html" title="Station F" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/stationf</id><content type="html" xml:base="http://localhost:4000/stationf">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -558,7 +558,7 @@ By training young people from all horizons, École 42 intends to highlight the c
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;The Famous French School&lt;/td&gt;
+      &lt;td&gt;STATION F&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🌐 Location&lt;/td&gt;
@@ -594,4 +594,106 @@ By training young people from all horizons, École 42 intends to highlight the c
       &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="incubators" /><summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary></entry></feed>
+&lt;/table&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="incubators" /><summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary></entry><entry><title type="html">Startup42</title><link href="http://localhost:4000/startup42" rel="alternate" type="text/html" title="Startup42" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/startup42</id><content type="html" xml:base="http://localhost:4000/startup42">&lt;p&gt;Founded in 2013 by &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;, Startup42 is a “fast &amp;amp; serious” project accelerator&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;StartUp42 by EPITA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Kremlin-Bicêtre, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;NC&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="incubators" /><summary type="html">Founded in 2013 by EPITA, Startup42 is a “fast &amp;amp; serious” project accelerator</summary></entry><entry><title type="html">Pépinière 27</title><link href="http://localhost:4000/pepiniere27" rel="alternate" type="text/html" title="Pépinière 27" /><published>2019-03-02T11:42:00+01:00</published><updated>2019-03-02T11:42:00+01:00</updated><id>http://localhost:4000/pepiniere27</id><content type="html" xml:base="http://localhost:4000/pepiniere27">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;Pépinière 27&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;3500 m2 of offices, 100 m2 of common areas &lt;br /&gt; + gym room, relaxation area, …&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;100&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;Pépinière 27 is labeled &lt;em&gt;“Paris Innovation”&lt;/em&gt; by the City of Paris &lt;br /&gt;+ Access to the &lt;a href=&quot;https://www.economie.gouv.fr/entreprises/financez-votre-projet-innovant-grace-a-paris-innovation-amorcage&quot;&gt;“PIA” (&lt;em&gt;Paris Innovation Amorçage&lt;/em&gt;) funding program&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;Starting at 250€/month&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Pépinière 27&lt;/strong&gt; &lt;br /&gt; 27 Rue du chemin vert &lt;br /&gt; 75013 Paris &lt;br /&gt; &lt;em&gt;+33 (0)1 75 77 87 00&lt;/em&gt; &lt;br /&gt; &lt;em&gt;contact@pepiniere27.fr&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10499.910448879366!2d2.3730712!3d48.8586373!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x168725100877ba2b!2zUMOpcGluacOocmUgMjc!5e0!3m2!1sfr!2sfr!4v1566386492346!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott Herfray</name></author><category term="incubators" /><summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary></entry></feed>
