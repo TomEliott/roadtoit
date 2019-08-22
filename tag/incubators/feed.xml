@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/incubators/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-21T16:47:19+02:00</updated>
+  <updated>2019-08-22T16:48:00+02:00</updated>
   <id>http://localhost:4000/tag/incubators/feed.xml</id>
 
   
@@ -621,7 +621,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
       <published>2019-03-02T11:42:00+01:00</published>
       <updated>2019-03-02T11:42:00+01:00</updated>
       <id>http://localhost:4000/agoranov</id>
-      <content type="html" xml:base="http://localhost:4000/agoranov">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/agoranov">&lt;p&gt;Founded more than 16 years ago, AgoraNov is one of the largest incubators in Île-de-France and France with more than 300 incubated startups, including successful companies such as the advertising giant &lt;em&gt;Criteo&lt;/em&gt;, the doctor appointment management app &lt;em&gt;Doctolib&lt;/em&gt; or the world robotics giant &lt;em&gt;Aldebaran&lt;/em&gt; (now &lt;em&gt;SoftBank Robotics&lt;/em&gt;). The incubator is also sponsored by many universities and public companies around the country.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -633,7 +633,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;The Famous French School&lt;/td&gt;
+      &lt;td&gt;AgoraNov&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🌐 Location&lt;/td&gt;
@@ -641,22 +641,50 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;2000 m²&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;320+ incubated projects and 300+ startups created&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;AgoraNov has incubated successful companies like &lt;br /&gt;Criteo, Biophytis, Aldebaran, Doctolib and more.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;xxx €&lt;/td&gt;
+      &lt;td&gt;NC&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+&lt;p&gt;A key player in the entrepreneurship and innovation sector and launched 16 years ago, AgoraNov is a public incubator of startups with a strong technological identity. The incubator was founded by the UPMC University (now &lt;a href=&quot;/sorbonneuniversity&quot;&gt;Sorbonne University&lt;/a&gt;, do not hesitate to read my full article about it), Paris-Dauphine University, ENS, ParisTech and INRIA – and fully supported by the Ministry of Research and Higher Education, the Île-de-France Region, the City of Paris and the European Social Fund.&lt;/p&gt;
 
-&lt;p&gt;Blablablabla&lt;/p&gt;
+&lt;p&gt;In less than 20 years, AgoraNov has raised more than 500 million euros of private funds for more than 320 incubated projects and 300 companies in the areas of digital technology, healthcare, industry and “greentech”. On the 320 incubated projects, nearly 170 have been awarded by the Ministry of Higher Education and Research of France.&lt;/p&gt;
+
+&lt;p&gt;Agoranov simultaneously supports some 60 startups that benefit from personalized support, the possibility of being hosted in the heart of Paris, an acceleration program and the expertise of a community of more than 300 startups, including some “pépites” like Criteo and Doctolib.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/agoranov-photo.jpg&quot; alt=&quot;AgoraNov HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;a-very-selective-and-condensed-program&quot;&gt;A very selective and condensed program&lt;/h2&gt;
+&lt;p&gt;One of the particularities of AgoraNov compared to its competitors is the very strong selection at the entrance with only 60 projects incubated per year over a period of 24 months.&lt;/p&gt;
+
+&lt;p&gt;To join AgoraNov, you have to fill out a very complete form presenting your project. The form will  be validated or not by the AgoraNov team, you will then have to present your project to the Incubator Expert Committee and if your project is accepted, an agreement is signed between AgoraNov and your team. You will understand that an Olympic preparation is necessary to join AgoraNov !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/agoranov-photo2.jpg&quot; alt=&quot;AgoraNov HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-does-agoranov-bring-&quot;&gt;What does AgoraNov bring ?&lt;/h2&gt;
+&lt;p&gt;The AgoraNov program is specific to each company and each domain (hopefully) but in general, the incubator will bring personality coaching by an experienced team from different fields.&lt;/p&gt;
+
+&lt;p&gt;With this you will also have accommodation with closed or open offices in the heart of Paris, you will have an infrastructure of more than 2000m², including meeting rooms, open-spaces, workspaces, relaxation areas and a reception.
+You will of course be able to exchange with other companies present on the spot and benefit from targeted trainings (meetings with partners, investors, industrialists or experts of the sector).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“We have an appetite for more technological projects, but as we are open to all sectors, it creates synergies between web start-ups and those that are more tech”&lt;/strong&gt;
+&lt;br /&gt; - David Argellies, Chargé d’affaires at AgoraNov.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If AgoraNov is distinguished from others by being a public incubator, it’s also a real creator of “French pépites” - these successful companies that we see more and more in our lives. And that’s just the beginning !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Le +&lt;/em&gt; : For the past few years, AgoraNov has been involved in the &lt;a href=&quot;http://lesstartupsalecole.com&quot;&gt;&lt;em&gt;“Startups at School”&lt;/em&gt;&lt;/a&gt; project, which aims to bring school audiences and young innovative companies closer together in the context of educational projects conceived in various school subjects.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -666,10 +694,12 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;AgoraNov&lt;/strong&gt; &lt;br /&gt; 96bis Boulevard Raspail &lt;br /&gt;75006 Paris&lt;br /&gt; &lt;em&gt;courrier@agoranov.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+ 33 (0)1 44 18 07 15&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content>
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10502.619193341674!2d2.3283103!3d48.8457229!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd90298e3baae58f8!2sAgoranov!5e0!3m2!1sfr!2sfr!4v1566482519662!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 
       
       
@@ -690,7 +720,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
       
 
       
-        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+        <summary type="html">Founded more than 16 years ago, AgoraNov is one of the largest incubators in Île-de-France and France with more than 300 incubated startups, including successful companies such as the advertising giant Criteo, the doctor appointment management app Doctolib or the world robotics giant Aldebaran (now SoftBank Robotics). The incubator is also sponsored by many universities and public companies around the country.</summary>
       
 
       
