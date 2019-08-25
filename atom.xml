@@ -8,16 +8,16 @@
     
       
       <item>
-        <title>Sorbonne University</title>
+        <title>Station F</title>
         
-          <description>&lt;p&gt;Created by the merger between highly reputable universities UPMC and Paris Sorbonne, Sorbonne University is one of the biggest Parisian universities, with more than 55,000 students on its various campuses. The University offers several courses in computer science, in French or in English, for long or short periods.&lt;/p&gt;
+          <description>&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
 
 </description>
         
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <pubDate>Tue, 21 May 2019 01:16:00 +0200</pubDate>
         <link>
-        http://localhost:4000/sorbonneuniversity</link>
-        <guid isPermaLink="true">http://localhost:4000/sorbonneuniversity</guid>
+        http://localhost:4000/stationf</link>
+        <guid isPermaLink="true">http://localhost:4000/stationf</guid>
       </item>
       
     
@@ -29,175 +29,10 @@
 
 </description>
         
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <pubDate>Mon, 13 May 2019 14:56:00 +0200</pubDate>
         <link>
         http://localhost:4000/parissaclay</link>
         <guid isPermaLink="true">http://localhost:4000/parissaclay</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Isep</title>
-        
-          <description>&lt;p&gt;Just minutes from the Montparnasse Tower and train station, Isep is a private engineering school specializing in digital technologies (IT, electronics, multimedia, networks) and attached to the Catholic University of Paris. Isep offers different courses for international students over different periods (semester, year).&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/isep</link>
-        <guid isPermaLink="true">http://localhost:4000/isep</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Epitech</title>
-        
-          <description>&lt;p&gt;Epitech (also called European Institute of Technology) is private Computer Science School with multiple campuses around the world and in Europe. The school offers computer courses to international and exchange students.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/epitech</link>
-        <guid isPermaLink="true">http://localhost:4000/epitech</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>EPITA</title>
-        
-          <description>&lt;p&gt;Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/epita</link>
-        <guid isPermaLink="true">http://localhost:4000/epita</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Efrei</title>
-        
-          <description>&lt;p&gt;Located only 15 minutes from Paris, Efrei is a general engineering school of digital technologies founded almost 90 years ago. Efrei delivers a French engineering degree since 1957 and offers French and English courses to foreign students.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/efrei</link>
-        <guid isPermaLink="true">http://localhost:4000/efrei</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Ecole 42</title>
-        
-          <description>&lt;p&gt;École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the &lt;em&gt;“self-study”&lt;/em&gt; learning method through dozens of projects and programming rushs (called &lt;em&gt;“pools”&lt;/em&gt;).&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/ecole42</link>
-        <guid isPermaLink="true">http://localhost:4000/ecole42</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Station F</title>
-        
-          <description>&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/stationf</link>
-        <guid isPermaLink="true">http://localhost:4000/stationf</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Startup42</title>
-        
-          <description>&lt;p&gt;Founded in 2013 by &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;, Startup42 is a “fast &amp;amp; serious” project accelerator designed to offer hacker teams with a good idea the skills and opportunities they need to become startup founders, create an impactful product and actually sell it.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/startup42</link>
-        <guid isPermaLink="true">http://localhost:4000/startup42</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Pépinière 27</title>
-        
-          <description>&lt;p&gt;With more than 100 startups incubated in a general and multi-disciplinary ecosystem, Pépinière 27 is a Parisian incubator offering both a flexible hosting and support services, but also a rich and inspiring infrastructure, like a natural greenhouse where knowledge flourishes.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/pepiniere27</link>
-        <guid isPermaLink="true">http://localhost:4000/pepiniere27</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>NUMA</title>
-        
-          <description>&lt;p&gt;Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/numa</link>
-        <guid isPermaLink="true">http://localhost:4000/numa</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>La Ruche</title>
-        
-          <description>&lt;p&gt;La Ruche (&lt;em&gt;hive&lt;/em&gt; in English) is a network of incubators dedicated to social innovation. Its action includes co-working, incubation, events, but also the establishment of large-scale partnerships allowing each actor or startup to give birth to his project or idea in the best conditions, be it at Paris, in the region or in the whole of France with different “hives”.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/laruche</link>
-        <guid isPermaLink="true">http://localhost:4000/laruche</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>IncubAlliance</title>
-        
-          <description>&lt;p&gt;Incubator of the &lt;a href=&quot;/parissaclay&quot;&gt;Paris-Saclay&lt;/a&gt; cluster since 2005, IncubAlliance’s main mission is to create bridges between startups, companies, labor and research experts within the Paris-Saclay campus, through support, training and hosting services for startups and education stakeholders.&lt;/p&gt;
-
-</description>
-        
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
-        <link>
-        http://localhost:4000/incuballiance</link>
-        <guid isPermaLink="true">http://localhost:4000/incuballiance</guid>
       </item>
       
     
@@ -209,10 +44,175 @@
 
 </description>
         
-        <pubDate>Sat, 02 Mar 2019 11:42:00 +0100</pubDate>
+        <pubDate>Mon, 06 May 2019 15:20:00 +0200</pubDate>
         <link>
         http://localhost:4000/agoranov</link>
         <guid isPermaLink="true">http://localhost:4000/agoranov</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>EPITA</title>
+        
+          <description>&lt;p&gt;Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 29 Apr 2019 10:18:00 +0200</pubDate>
+        <link>
+        http://localhost:4000/epita</link>
+        <guid isPermaLink="true">http://localhost:4000/epita</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>La Ruche</title>
+        
+          <description>&lt;p&gt;La Ruche (&lt;em&gt;hive&lt;/em&gt; in English) is a network of incubators dedicated to social innovation. Its action includes co-working, incubation, events, but also the establishment of large-scale partnerships allowing each actor or startup to give birth to his project or idea in the best conditions, be it at Paris, in the region or in the whole of France with different “hives”.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 22 Apr 2019 02:15:00 +0200</pubDate>
+        <link>
+        http://localhost:4000/laruche</link>
+        <guid isPermaLink="true">http://localhost:4000/laruche</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Ecole 42</title>
+        
+          <description>&lt;p&gt;École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the &lt;em&gt;“self-study”&lt;/em&gt; learning method through dozens of projects and programming rushs (called &lt;em&gt;“pools”&lt;/em&gt;).&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 15 Apr 2019 17:13:00 +0200</pubDate>
+        <link>
+        http://localhost:4000/ecole42</link>
+        <guid isPermaLink="true">http://localhost:4000/ecole42</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>NUMA</title>
+        
+          <description>&lt;p&gt;Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 08 Apr 2019 23:52:00 +0200</pubDate>
+        <link>
+        http://localhost:4000/numa</link>
+        <guid isPermaLink="true">http://localhost:4000/numa</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Sorbonne University</title>
+        
+          <description>&lt;p&gt;Created by the merger between highly reputable universities UPMC and Paris Sorbonne, Sorbonne University is one of the biggest Parisian universities, with more than 55,000 students on its various campuses. The University offers several courses in computer science, in French or in English, for long or short periods.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 01 Apr 2019 14:14:00 +0200</pubDate>
+        <link>
+        http://localhost:4000/sorbonneuniversity</link>
+        <guid isPermaLink="true">http://localhost:4000/sorbonneuniversity</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>IncubAlliance</title>
+        
+          <description>&lt;p&gt;Incubator of the &lt;a href=&quot;/parissaclay&quot;&gt;Paris-Saclay&lt;/a&gt; cluster since 2005, IncubAlliance’s main mission is to create bridges between startups, companies, labor and research experts within the Paris-Saclay campus, through support, training and hosting services for startups and education stakeholders.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 25 Mar 2019 21:45:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/incuballiance</link>
+        <guid isPermaLink="true">http://localhost:4000/incuballiance</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Epitech</title>
+        
+          <description>&lt;p&gt;Epitech (also called European Institute of Technology) is private Computer Science School with multiple campuses around the world and in Europe. The school offers computer courses to international and exchange students.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Tue, 19 Mar 2019 00:40:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/epitech</link>
+        <guid isPermaLink="true">http://localhost:4000/epitech</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Pépinière 27</title>
+        
+          <description>&lt;p&gt;With more than 100 startups incubated in a general and multi-disciplinary ecosystem, Pépinière 27 is a Parisian incubator offering both a flexible hosting and support services, but also a rich and inspiring infrastructure, like a natural greenhouse where knowledge flourishes.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 11 Mar 2019 15:18:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/pepiniere27</link>
+        <guid isPermaLink="true">http://localhost:4000/pepiniere27</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Efrei</title>
+        
+          <description>&lt;p&gt;Located only 15 minutes from Paris, Efrei is a general engineering school of digital technologies founded almost 90 years ago. Efrei delivers a French engineering degree since 1957 and offers French and English courses to foreign students.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 04 Mar 2019 08:25:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/efrei</link>
+        <guid isPermaLink="true">http://localhost:4000/efrei</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Startup42</title>
+        
+          <description>&lt;p&gt;Founded in 2013 by &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;, Startup42 is a “fast &amp;amp; serious” project accelerator designed to offer hacker teams with a good idea the skills and opportunities they need to become startup founders, create an impactful product and actually sell it.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 25 Feb 2019 20:47:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/startup42</link>
+        <guid isPermaLink="true">http://localhost:4000/startup42</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Isep</title>
+        
+          <description>&lt;p&gt;Just minutes from the Montparnasse Tower and train station, Isep is a private engineering school specializing in digital technologies (IT, electronics, multimedia, networks) and attached to the Catholic University of Paris. Isep offers different courses for international students over different periods (semester, year).&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Mon, 18 Feb 2019 19:27:00 +0100</pubDate>
+        <link>
+        http://localhost:4000/isep</link>
+        <guid isPermaLink="true">http://localhost:4000/isep</guid>
       </item>
       
     

@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/author/tomeliott/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-25T18:18:52+02:00</updated>
+  <updated>2019-08-25T19:11:08+02:00</updated>
   <id>http://localhost:4000/author/tomeliott/feed.xml</id>
 
   
@@ -46,10 +46,766 @@
 
   
     <entry>
+      <title type="html">Station F</title>
+      <link href="http://localhost:4000/stationf" rel="alternate" type="text/html" title="Station F" />
+      <published>2019-05-21T01:16:00+02:00</published>
+      <updated>2019-05-21T01:16:00+02:00</updated>
+      <id>http://localhost:4000/stationf</id>
+      <content type="html" xml:base="http://localhost:4000/stationf">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;STATION F&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;xxx&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;xxx €&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+
+&lt;p&gt;Blablablabla&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Paris-Saclay University</title>
+      <link href="http://localhost:4000/parissaclay" rel="alternate" type="text/html" title="Paris-Saclay University" />
+      <published>2019-05-13T14:56:00+02:00</published>
+      <updated>2019-05-13T14:56:00+02:00</updated>
+      <id>http://localhost:4000/parissaclay</id>
+      <content type="html" xml:base="http://localhost:4000/parissaclay">&lt;p&gt;Unlike all the schools I mentioned here, Paris-Saclay University is not just a simple university but a group of universities in Île-de-France Region specializing in many scientific fields. Paris-Saclay also brings together France’s largest technology hub and offers to French and international students world-renowned degrees.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 School Name&lt;/td&gt;
+      &lt;td&gt;Université Paris-Saclay&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Saint Aubain, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;⚖️ Type&lt;/td&gt;
+      &lt;td&gt;Community of universities and institutions (Comue)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;📆 Course Duration&lt;/td&gt;
+      &lt;td&gt;3 to 8 years&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;👥 Members&lt;/td&gt;
+      &lt;td&gt;CNRS, CEA, IHES, INRA, INRIA, ONERA, INSERM, AgroParisTech,&lt;br /&gt; CentraleSupélec, ENS, Université Paris-Sud and more&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;Depends on courses, some institutions charge fees&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;I cannot compare the Paris-Saclay University with other schools because the concept is unique in France. Paris-Saclay brings together some ten universities and scientific institutions among the most renowned in the world. In order to synthesize the article as much as possible, I will present only the main courses offered in the field of computer and new technologies, and the student life in Paris-Saclay’s campus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/parissaclay-photo.jpg&quot; alt=&quot;Paris-Saclay campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;masters-degrees-fully-in-english&quot;&gt;Master’s degrees fully in English&lt;/h2&gt;
+&lt;p&gt;The list of all the masters offered by Paris-Saclay Université and its partners is very long, I propose below a presentation of the main masters in English of the Computer Science department (member of the &lt;a href=&quot;https://universite-paris-saclay.fr/en/masters-degrees-in-english&quot;&gt;&lt;em&gt;School Engineering, information science and technology&lt;/em&gt;&lt;/a&gt; department)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m1-computer-science-international-track#presentation-m1&quot;&gt;&lt;em&gt;M1 Computer science - International track&lt;/em&gt;&lt;/a&gt; (by Telecom Paris-Sud) 
+&lt;br /&gt;Introduction to networks, human-computer interaction and computer science, with two majors : &lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-informatique-pour-les-reseaux-de-communication-computer-science-for&quot;&gt;Computer Networks (CCN)&lt;/a&gt; and &lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-interaction-human-computer-interaction-hci&quot;&gt;Human Computer Interaction (HCI)&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m1-hcid-eit-digital&quot;&gt;&lt;em&gt;M1 Human Computer Interaction &amp;amp; Design - EIT Digital&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud)
+&lt;br /&gt;Introduction to Human-Computer Interaction and Interactive Systems, with opportunities to choose from majors like IoT, mobile interaction, creative design, audio synthesis, virtual humans, AR and more.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-hcid-eit-digital#presentation-m2&quot;&gt;&lt;em&gt;M2 Human Computer Interaction &amp;amp; Design - EIT Digital&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud)
+&lt;br /&gt; Following M1 above, M2 HCID focuses on the design, development and evaluation of interactive systems that are adapted to users and the context of their use (gestural, mobile, AR/VR, intelligent agents, virtual humans, computer graphics and machine learning).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-reseaux-de-communications-avances-advanced-communication-networks-acn#presentation-m2&quot;&gt;&lt;em&gt;M2 Advanced Communication Networks (ACN)&lt;/em&gt;&lt;/a&gt; (by Telecom ParisTech and Polytechnique)
+&lt;br /&gt; Understanding network paradigms, architectures, algorithms and technologies, and win a strong expertise in theoretical tools and methods for network performance study and analysis.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-informatique-pour-les-reseaux-de-communication-computer-science-for#presentation-m2&quot;&gt;&lt;em&gt;M2 Computer Science for Communication Networks&lt;/em&gt;&lt;/a&gt; (by Telecom Paris-Sud)
+&lt;br /&gt;Introduction to practical and theoretical research in networks and computer science. It gives students the opportunity to deepen their technical knowledge through computer science methodologies applied to communication networks as well as to discover new emerging research topics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-data-knowledge-d-k&quot;&gt;&lt;em&gt;M2 Data &amp;amp; Knowledge (D&amp;amp;K)&lt;/em&gt;&lt;/a&gt; (by LRI and Telecom ParisTech)
+&lt;br /&gt;Introduction to web data management, knowledge &amp;amp; semantics, big data, artificial intelligence, and data analytics from a semantic point of view.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-modeles-et-technologies-pour-le-decisionnel-decision-support-and-business&quot;&gt;&lt;em&gt;M2 Decision Support and Business Intelligence&lt;/em&gt;&lt;/a&gt; (by CentraleSupélec)
+&lt;br /&gt;This Master’s program aims to provide the key elements required to meet these challenges that are: machine learning, visualization analytics, decision modeling,  graph data management and analytics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://universite-paris-saclay.fr/en/education/master/m2-interaction-human-computer-interaction-hci&quot;&gt;&lt;em&gt;M2 Human Computer Interaction (HCI)&lt;/em&gt;&lt;/a&gt; (by Université Paris-Sud and LRI)
+&lt;br /&gt;This master provides students with fundamental knowledge and advanced techniques to design, develop and evaluate interactive systems that are adapted to the needs of their users. It trains specialists in Human-Computer Interaction and prepares them to careers in academia, industrial R&amp;amp;D and any company that develops interactive systems.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are comfortable with French (&lt;em&gt;et c’est une excellente chose !&lt;/em&gt;), Paris-Saclay University also offers masters in French &lt;strong&gt;and&lt;/strong&gt; English, you will find the list and a detailed presentation on this &lt;a href=&quot;https://universite-paris-saclay.fr/en/master-degrees-taught-in-french-and-english&quot;&gt;website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/parissaclay-photo2.jpg&quot; alt=&quot;Paris-Saclay campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;campus--student-life-at-paris-saclay-university&quot;&gt;Campus &amp;amp; Student Life at Paris-Saclay University&lt;/h2&gt;
+&lt;p&gt;Paris-Saclay is probably the biggest hub of clubs in France, with more than 600 student organizations on the main campus. With many students, the University also offers housing solutions with the [Versailles’ CROUS[http://www.crous-versailles.fr/en) or &lt;a href=&quot;https://www.heberjeunes.fr/en/&quot;&gt;Héberjeunes&lt;/a&gt;. From 2018, 5000 new students’s residences will be built. Accommodation would be of different types and would represent a surface area of around 27 hectares.&lt;/p&gt;
+
+&lt;p&gt;RER B (a regional train) goes directly to the university. In 2024, the &lt;em&gt;Grand Paris&lt;/em&gt; (Metro Line 18) project will enable nine identified areas (including Paris-Saclay) to be served, all of which represent economic development centers, bringing together companies, institutions and university and research establishments.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Guillaume GARRETA&lt;/strong&gt; &lt;br /&gt; Director of International Development  &lt;br /&gt; &lt;em&gt;guillaume.garreta@universite-paris-saclay.fr&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42126.02946861107!2d2.1175044791015556!3d48.70783489999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e67f6794d18479%3A0xf281f304394e3a1c!2sUniversit%C3%A9+Paris-Saclay!5e0!3m2!1sfr!2sfr!4v1566146063955!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="schools" />
+      
+
+      
+        <summary type="html">Unlike all the schools I mentioned here, Paris-Saclay University is not just a simple university but a group of universities in Île-de-France Region specializing in many scientific fields. Paris-Saclay also brings together France’s largest technology hub and offers to French and international students world-renowned degrees.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">AgoraNov</title>
+      <link href="http://localhost:4000/agoranov" rel="alternate" type="text/html" title="AgoraNov" />
+      <published>2019-05-06T15:20:00+02:00</published>
+      <updated>2019-05-06T15:20:00+02:00</updated>
+      <id>http://localhost:4000/agoranov</id>
+      <content type="html" xml:base="http://localhost:4000/agoranov">&lt;p&gt;Founded more than 16 years ago, AgoraNov is one of the largest incubators in Île-de-France and France with more than 300 incubated startups, including successful companies such as the advertising giant &lt;em&gt;Criteo&lt;/em&gt;, the doctor appointment management app &lt;em&gt;Doctolib&lt;/em&gt; or the world robotics giant &lt;em&gt;Aldebaran&lt;/em&gt; (now &lt;em&gt;SoftBank Robotics&lt;/em&gt;). The incubator is also sponsored by many universities and public companies around the country.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;AgoraNov&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;2000 m²&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;320+ incubated projects and 300+ startups created&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;AgoraNov has incubated successful companies like &lt;br /&gt;Criteo, Biophytis, Aldebaran, Doctolib and more.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;NC&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;A key player in the entrepreneurship and innovation sector and launched 16 years ago, AgoraNov is a public incubator of startups with a strong technological identity. The incubator was founded by the UPMC University (now &lt;a href=&quot;/sorbonneuniversity&quot;&gt;Sorbonne University&lt;/a&gt;, do not hesitate to read my full article about it), Paris-Dauphine University, ENS, ParisTech and INRIA – and fully supported by the Ministry of Research and Higher Education, the Île-de-France Region, the City of Paris and the European Social Fund.&lt;/p&gt;
+
+&lt;p&gt;In less than 20 years, AgoraNov has raised more than 500 million euros of private funds for more than 320 incubated projects and 300 companies in the areas of digital technology, healthcare, industry and “greentech”. On the 320 incubated projects, nearly 170 have been awarded by the Ministry of Higher Education and Research of France.&lt;/p&gt;
+
+&lt;p&gt;Agoranov simultaneously supports some 60 startups that benefit from personalized support, the possibility of being hosted in the heart of Paris, an acceleration program and the expertise of a community of more than 300 startups, including some “pépites” like Criteo and Doctolib.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/agoranov-photo.jpg&quot; alt=&quot;AgoraNov HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;a-very-selective-and-condensed-program&quot;&gt;A very selective and condensed program&lt;/h2&gt;
+&lt;p&gt;One of the particularities of AgoraNov compared to its competitors is the very strong selection at the entrance with only 60 projects incubated per year over a period of 24 months.&lt;/p&gt;
+
+&lt;p&gt;To join AgoraNov, you have to fill out a very complete form presenting your project. The form will  be validated or not by the AgoraNov team, you will then have to present your project to the Incubator Expert Committee and if your project is accepted, an agreement is signed between AgoraNov and your team. You will understand that an Olympic preparation is necessary to join AgoraNov !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/agoranov-photo2.jpg&quot; alt=&quot;AgoraNov HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;what-does-agoranov-bring-&quot;&gt;What does AgoraNov bring ?&lt;/h2&gt;
+&lt;p&gt;The AgoraNov program is specific to each company and each domain (hopefully) but in general, the incubator will bring personality coaching by an experienced team from different fields.&lt;/p&gt;
+
+&lt;p&gt;With this you will also have accommodation with closed or open offices in the heart of Paris, you will have an infrastructure of more than 2000m², including meeting rooms, open-spaces, workspaces, relaxation areas and a reception.
+You will of course be able to exchange with other companies present on the spot and benefit from targeted trainings (meetings with partners, investors, industrialists or experts of the sector).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;“We have an appetite for more technological projects, but as we are open to all sectors, it creates synergies between web start-ups and those that are more tech”&lt;/strong&gt;
+&lt;br /&gt; - David Argellies, Chargé d’affaires at AgoraNov.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If AgoraNov is distinguished from others by being a public incubator, it’s also a real creator of “French pépites” - these successful companies that we see more and more in our lives. And that’s just the beginning !&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Le +&lt;/em&gt; : For the past few years, AgoraNov has been involved in the &lt;a href=&quot;http://lesstartupsalecole.com&quot;&gt;&lt;em&gt;“Startups at School”&lt;/em&gt;&lt;/a&gt; project, which aims to bring school audiences and young innovative companies closer together in the context of educational projects conceived in various school subjects.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;AgoraNov&lt;/strong&gt; &lt;br /&gt; 96bis Boulevard Raspail &lt;br /&gt;75006 Paris&lt;br /&gt; &lt;em&gt;courrier@agoranov.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+ 33 (0)1 44 18 07 15&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10502.619193341674!2d2.3283103!3d48.8457229!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd90298e3baae58f8!2sAgoranov!5e0!3m2!1sfr!2sfr!4v1566482519662!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Founded more than 16 years ago, AgoraNov is one of the largest incubators in Île-de-France and France with more than 300 incubated startups, including successful companies such as the advertising giant Criteo, the doctor appointment management app Doctolib or the world robotics giant Aldebaran (now SoftBank Robotics). The incubator is also sponsored by many universities and public companies around the country.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">EPITA</title>
+      <link href="http://localhost:4000/epita" rel="alternate" type="text/html" title="EPITA" />
+      <published>2019-04-29T10:18:00+02:00</published>
+      <updated>2019-04-29T10:18:00+02:00</updated>
+      <id>http://localhost:4000/epita</id>
+      <content type="html" xml:base="http://localhost:4000/epita">&lt;p&gt;Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 School Name&lt;/td&gt;
+      &lt;td&gt;École pour l’Informatique et les Techniques Avancées (EPITA)&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Kremlin-Bicêtre, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;⚖️ Type&lt;/td&gt;
+      &lt;td&gt;Private Engineering School&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;📆 Course Duration&lt;/td&gt;
+      &lt;td&gt;18 months to 3 years&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
+      &lt;td&gt;Accepted&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;≈ 9000€/year + fees&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Created in 1984, EPITA (School for Computer Science and Advanced Techniques) is an engineering school located in Île-de-France Region, specialised in Computer Science. The school offers various degree programs for international students, which can mingle with French students (of which I am a member) on the main campus located in Kremlin-Bicêtre, just a few minutes from Paris.&lt;/p&gt;
+
+&lt;p&gt;Main campus is made up of different buildings and many rooms with computers of last generations (Linux and macOS). Campus is shared with another school, Epitech, a computer school that offers IT degree. I invite you also to read Epitech’s presentation.&lt;/p&gt;
+
+&lt;p&gt;EPITA offers 4 degree programs for international students : a Bachelor of Computer Science (BCS), two Masters of Science (in Computer Science and AI Systems) and a Master of Computer Engineering. In addition to these courses, EPITA also offers bootcamps and entrepreneurship short programs and joint &amp;amp; dual degrees.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epita-photo.jpg&quot; alt=&quot;EPITA campus&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-wide-range-of-specialization&quot;&gt;A wide range of specialization&lt;/h2&gt;
+&lt;p&gt;During your studies, you will be able to choose majors, such as Global IT Management, Software Development, Project management, Advanced Algorithms, IOT, Networks &amp;amp; Security and more. You will also attend general courses in the early years, such as algorithmics, linear algebra, thermodynamic physics, computer architecture and electronics.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;EPITA is a school that allows everyone to discover computing through workshops and multiple projects. Every student can find or discover a new passion, whether it’s about security or project management.&lt;/strong&gt;&lt;br /&gt;
+– Samy Hussaein, EPITA 4th year Student&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epita-photo2.jpg&quot; alt=&quot;EPITA campus&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-very-active-student-life&quot;&gt;A very active student life&lt;/h2&gt;
+&lt;p&gt;The Student Life is very active in the main campus, with more than 70 clubs and organizations, like video games, programming, movies club and more. Only a few minutes from public transport, you can easily reach the center of Paris and nice places. &lt;em&gt;Le +&lt;/em&gt; : The Val-de-Marne department offers a &lt;a href=&quot;https://www.valdemarne.fr/a-votre-service/deplacement/transports/remboursement-de-la-carte-imagine-r&quot;&gt;refund of part of your transport costs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Finally, as a part of your final semester, you will have to do an internship. Paris and surrounding cities host many startups and large companies, like Apple, Google, Microsoft and Facebook. The French Tech is also a great way to discover new French startups with great potential, like in the incubator Station F, just ten minutes from the EPITA campus.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Rabih HADDAD&lt;/strong&gt; &lt;br /&gt; Director of International Programs &lt;br /&gt; &lt;em&gt;rabih.haddad@epita.fr&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33 (0)1 80 51 71 37&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10508.92156903637!2d2.3628171!3d48.8156654!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x581b7c8cd0a77c3e!2sEcole+d%E2%80%99ing%C3%A9nieurs+en+informatique+-+EPITA!5e0!3m2!1sfr!2sfr!4v1565021285281!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="schools" />
+      
+
+      
+        <summary type="html">Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">La Ruche</title>
+      <link href="http://localhost:4000/laruche" rel="alternate" type="text/html" title="La Ruche" />
+      <published>2019-04-22T02:15:00+02:00</published>
+      <updated>2019-04-22T02:15:00+02:00</updated>
+      <id>http://localhost:4000/laruche</id>
+      <content type="html" xml:base="http://localhost:4000/laruche">&lt;p&gt;La Ruche (&lt;em&gt;hive&lt;/em&gt; in English) is a network of incubators dedicated to social innovation. Its action includes co-working, incubation, events, but also the establishment of large-scale partnerships allowing each actor or startup to give birth to his project or idea in the best conditions, be it at Paris, in the region or in the whole of France with different “hives”.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;La Ruche&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris - Saint-Germain-en-Laye, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏰 Size&lt;/td&gt;
+      &lt;td&gt;3200 m2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;125 projects per year&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;La Ruche offers an incubation program for women in tech, &lt;br /&gt;called &lt;a href=&quot;https://www.les-audacieuses.org&quot;&gt;&lt;em&gt;“Les Audacieuses”&lt;/em&gt;&lt;/a&gt; and member of the &lt;a href=&quot;http://www.les-ambitieuses.tech&quot;&gt;&lt;em&gt;Tech for Good&lt;/em&gt;&lt;/a&gt; project&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;Starting at 145€/month&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Launched 11 ago with the conviction that a responsible and collaborative society was possible, La Ruche offers a range of services for entrepreneurs and young startups, from incubation to growth through advice and co-working spaces in all France.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/laruche-photo.jpg&quot; alt=&quot;La Ruche HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;the-place-to-bee&quot;&gt;&lt;em&gt;“The Place to Bee”&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;From hackatons to half-day to several days trainings, La Ruche offers a range of support for entrepreneurs and startups. In 1 year, more than 125 projects were incubated with an 83% survival rate of incubated entrepreneurs in the first 3 years.&lt;/p&gt;
+
+&lt;p&gt;Regarding the workspaces, I will focus on HQs in Île-de-France and Paris Region, but La Ruche also has workspaces in &lt;a href=&quot;https://la-ruche.net/ruche/bordeaux/&quot;&gt;Bordeaux&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/marseille/&quot;&gt;Marseille&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/saint-nazaire/&quot;&gt;Saint-Nazaire&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/montpellier/&quot;&gt;Montpellier&lt;/a&gt; and more.&lt;/p&gt;
+
+&lt;p&gt;With 3200m² dedicated to the positive economy and a terrace of more than 200m² in Paris, La Ruche welcomes project leaders driven by social entrepreneurship, digital technology and culture.
+You find an astonishing diversity among co-workers, such as entrepreneurs, associations, employees, teleworkers, self-employed and intrapreneurs. Each category has its own tariff range adapted to its needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/laruche-photo2.jpg&quot; alt=&quot;La Ruche HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;programs-for-all&quot;&gt;Programs for all&lt;/h2&gt;
+
+&lt;p&gt;La Ruche offers special rates for everyone, and offers 5 programs :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Closed offices&lt;/strong&gt; (starting 1k€/month) with offices for up to 20 people, with a commitment of 6 months and unlimited access.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Full time program&lt;/strong&gt; (starting at 350€/month) with unlimited access, a fixed office for 1 person and a 3-month commitment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Half time program&lt;/strong&gt; (starting at 235€/month) with an access 20 half-days (or 10 days per month), a fixed office for 1 person and a 2-month commitment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quarter time program&lt;/strong&gt; (starting at 145€/month) with an access 10 half-days (or 5 days per month), a fixed office for 1 person and a 2-month commitment.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Full time company program&lt;/strong&gt; (starting at 500€/month) with unlimited access and more.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Startups have free Internet, printer, an access to 9 meeting rooms, a 220m² terrace, a kitchen/sleep room, training sessions, an access to meeting-space for your public events and of course, national professionals from La Ruche’s network.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Le +&lt;/em&gt; : As a &lt;em&gt;Paris Innovation&lt;/em&gt; certified incubator by the Paris City Hall, startups located in La Ruche can apply for a funding with &lt;a href=&quot;https://www.economie.gouv.fr/entreprises/financez-votre-projet-innovant-grace-a-paris-innovation-amorcage&quot;&gt;&lt;em&gt;Paris Innovation Amorçage&lt;/em&gt; funding program&lt;/a&gt;. Created to support the development of startups hosted in incubators labeled &lt;em&gt;Paris Innovation&lt;/em&gt;, it is aimed at any innovative project in the seed or development phase.
+Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images/71646&quot;&gt;detailed presentation&lt;/a&gt; of this program and to contact, as the case may be, the &lt;a href=&quot;http://www.bpifrance.fr/Contactez-nous/Direction-regionale-Paris&quot;&gt;Paris Regional Office of &lt;em&gt;Bpifrance Île de France&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;La Ruche® Paris&lt;/strong&gt; &lt;br /&gt; 24 Rue de l’Est &lt;br /&gt; 75020 Paris &lt;br /&gt; &lt;em&gt;paris@la-ruche.net&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33 (0)1 83 64 59 04&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10497.279555023!2d2.3934424!3d48.8711781!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9637fb10c7b597f2!2sLa+Ruche!5e0!3m2!1sfr!2sfr!4v1566395464386!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">La Ruche (hive in English) is a network of incubators dedicated to social innovation. Its action includes co-working, incubation, events, but also the establishment of large-scale partnerships allowing each actor or startup to give birth to his project or idea in the best conditions, be it at Paris, in the region or in the whole of France with different “hives”.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Ecole 42</title>
+      <link href="http://localhost:4000/ecole42" rel="alternate" type="text/html" title="Ecole 42" />
+      <published>2019-04-15T17:13:00+02:00</published>
+      <updated>2019-04-15T17:13:00+02:00</updated>
+      <id>http://localhost:4000/ecole42</id>
+      <content type="html" xml:base="http://localhost:4000/ecole42">&lt;p&gt;École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the &lt;em&gt;“self-study”&lt;/em&gt; learning method through dozens of projects and programming rushs (called &lt;em&gt;“pools”&lt;/em&gt;).&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 School Name&lt;/td&gt;
+      &lt;td&gt;École 42, 42 School &lt;em&gt;or&lt;/em&gt; 42&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;⚖️ Type&lt;/td&gt;
+      &lt;td&gt;Self-study institution / Association&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;📆 Course Duration&lt;/td&gt;
+      &lt;td&gt;2 to 5 years&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
+      &lt;td&gt;Accepted&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;Free&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Created in 2013 by Xavier Niel (CEO Free &amp;amp; Iliad Group) and Nicolas Sadirac (ex-Director Epitech), École 42 is a French Computer Science institution that prepares students for the computer and code development professions.
+By training young people from all horizons, École 42 intends to highlight the capacity of innovation and digital transformation of companies in France and around the world.&lt;/p&gt;
+
+&lt;p&gt;At École 42, there is no course and no teachers, it is only learning peer-to-peer (or self-study). There are no notes and everyone progresses at their own pace through dozens of projects (team or alone) as well as many programming rushes (inspired by the EPITA and Epitech “pool”).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/42-photo.jpg&quot; alt=&quot;42 France campus&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;born-to-code&quot;&gt;“Born to code”&lt;/h2&gt;
+
+&lt;p&gt;To join École 42, no prerequisites are needed but only a period of programming rush, called the “Piscine” (or pool) : It is an immersion in the world of coding, used to identify the most motivated students. During 1 month, you will be able to discover the different aspects of the school and its method of learning. Best thing ? You can sleep for free in the school during this period. 2 weeks after the end of the pool, you will receive your results telling you if you can join the school or not.&lt;/p&gt;
+
+&lt;p&gt;If you succeed, the training will last from 2 to 5 years according to your choice of studies. The program at École 42 is divided into 2 main parts : the compulsory notions to be acquired for a permanent job as a developer, such as network or algorithmic, followed by a phase of improvement during which the student can discover the many facets of development (Security, Artificial Intelligence, Deep learning, AR/VR, …).&lt;/p&gt;
+
+&lt;p&gt;At the end of your studies, École 42 does not give a state-recognised degree, as the school is not officially considered as school but more as a non-profit association. However, the expertise of developers from 42 is now recognised in many companies around the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/42-photo2.jpg&quot; alt=&quot;42 France campus&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-campus-open-all-the-time&quot;&gt;A campus open all the time&lt;/h2&gt;
+
+&lt;p&gt;The French campus of École 42 is located in the north of Paris, in a recent and well-equipped building. You will find dormitories, a canteen, food trucks, gaming areas, conference rooms and many machine rooms with computers (running macOS). The school currently has 9 clubs, including air-soft, training and sale of business services.&lt;/p&gt;
+
+&lt;p&gt;A few months ago, 42 France announced the expansion of the initial campus with the initiative &lt;em&gt;“Not A Campus”&lt;/em&gt; (NOC). This new campus will include club space, open-spaces, a collaborative grocery store, a fitness room, a student residence, green spaces and gardens (open to everyone).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nota Bene&lt;/strong&gt; : Due to growing interest of the École 42’s method around the world, the school opened a second campus few years ago, in the Silicon Valley (Fremont, CA). The philosophy is the same and if you are interested in the American campus, don’t hesitate to visit their website 42.us.org.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;em&gt;42 France&lt;/em&gt; does not offer specific contact, but I invite you to visit the admissions website : &lt;strong&gt;candidature.42.fr&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10491.943364787661!2d2.318501!3d48.896607!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4e808812dd36a382!2s42!5e0!3m2!1sfr!2sfr!4v1565026855796!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="schools" />
+      
+
+      
+        <summary type="html">École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the “self-study” learning method through dozens of projects and programming rushs (called “pools”).</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">NUMA</title>
+      <link href="http://localhost:4000/numa" rel="alternate" type="text/html" title="NUMA" />
+      <published>2019-04-08T23:52:00+02:00</published>
+      <updated>2019-04-08T23:52:00+02:00</updated>
+      <id>http://localhost:4000/numa</id>
+      <content type="html" xml:base="http://localhost:4000/numa">&lt;p&gt;Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
+      &lt;td&gt;NUMA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🌐 Location&lt;/td&gt;
+      &lt;td&gt;Paris, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;300&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;NUMA offers a free open-space with bar on the ground floor&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;💵 Price&lt;/td&gt;
+      &lt;td&gt;Free co-working space &lt;br /&gt; Privatization of rooms from 1200€/day&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;It all started in 2000 with &lt;em&gt;Silicon Sentier&lt;/em&gt;, an entrepreneur association with more than 180 partner companies. Their initial objective was to encourage meetings between entrepreneurs and to allow new projects to emerge and floor on the &lt;em&gt;Next Big Thing&lt;/em&gt;. The idea was to design a network capable of promoting and facilitating the development of entrepreneurship at the national level, and that’s what became NUMA today.&lt;/p&gt;
+
+&lt;p&gt;NUMA is not only an open space for entrepreneurs or small businesses today, it’s a hub of more than 300 organizations, including CAC40 leaders and hundreds of startups - with a presence in Paris, Barcelona, Mexico, Toulouse, Berlin and even New York.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/numa-photo.jpg&quot; alt=&quot;NUMA HQ&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;not-only-an-open-space&quot;&gt;Not only an open-space&lt;/h2&gt;
+
+&lt;p&gt;The first time I went to NUMA, it was just to have a place where to discuss professionally with other students, entrepreneurs and business leaders, I also discovered a free space co-working on the ground floor, with possibility to rent different rooms for &lt;a href=&quot;https://www.numa.co/fr/reservation-de-salles&quot;&gt;private meetings&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But my biggest surprise was to discover the “formations”. Today, the challenge is not only to master the technical aspect of a project but also the notions of management, intrapreneurship, design thinking and digital marketing. And guess what? That’s exactly what NUMA offers. In fact, we understand quickly that we do not invest only in a HQ or a place to work, but in a long-term support of your project.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/numa-photo2.jpg&quot; alt=&quot;NUMA HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;to-infinity-and-beyond&quot;&gt;“To infinity and beyond”&lt;/h2&gt;
+
+&lt;p&gt;Regarding the incubation program, NUMA brings its expertise to startups already on the market and having a consequent turnover, for 3.5 % equity participation.
+NUMA’s philosophy is based on the development of the startups’ business and network, the implementation of a rigorous and effective methodology for executing their strategy as well as long-term support through a mentoring system with experts.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Looking for something fun to do there, to discover the atmosphere of NUMA ? Do not hesitate to visit “La Cantine”, the first collaborative workspace created in Île-de-France Region, where many celebrities have passed to make conferences and exchange with members, like Mark Zuckerberg.&lt;/em&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;NUMA Paris&lt;/strong&gt; &lt;br /&gt; 39 Rue du Caire&lt;br /&gt; 75002 Paris &lt;br /&gt; &lt;em&gt;+33 (0)1 40 13 64 40&lt;/em&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10498.002257592629!2d2.3497182!3d48.8677334!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1715b707d5c6af5e!2sNuma+Paris!5e0!3m2!1sfr!2sfr!4v1566312566704!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Tom-Eliott Herfray</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="incubators" />
+      
+
+      
+        <summary type="html">Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
       <title type="html">Sorbonne University</title>
       <link href="http://localhost:4000/sorbonneuniversity" rel="alternate" type="text/html" title="Sorbonne University" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
+      <published>2019-04-01T14:14:00+02:00</published>
+      <updated>2019-04-01T14:14:00+02:00</updated>
       <id>http://localhost:4000/sorbonneuniversity</id>
       <content type="html" xml:base="http://localhost:4000/sorbonneuniversity">&lt;p&gt;Created by the merger between highly reputable universities UPMC and Paris Sorbonne, Sorbonne University is one of the biggest Parisian universities, with more than 55,000 students on its various campuses. The University offers several courses in computer science, in French or in English, for long or short periods.&lt;/p&gt;
 
@@ -167,8 +923,8 @@ As for the other schools or universities presented here, you will find many club
     <entry>
       <title type="html">IncubAlliance</title>
       <link href="http://localhost:4000/incuballiance" rel="alternate" type="text/html" title="IncubAlliance" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
+      <published>2019-03-25T21:45:00+01:00</published>
+      <updated>2019-03-25T21:45:00+01:00</updated>
       <id>http://localhost:4000/incuballiance</id>
       <content type="html" xml:base="http://localhost:4000/incuballiance">&lt;p&gt;Incubator of the &lt;a href=&quot;/parissaclay&quot;&gt;Paris-Saclay&lt;/a&gt; cluster since 2005, IncubAlliance’s main mission is to create bridges between startups, companies, labor and research experts within the Paris-Saclay campus, through support, training and hosting services for startups and education stakeholders.&lt;/p&gt;
 
@@ -284,515 +1040,12 @@ Regarding the cost, it depends on the needs of startups but on average, it amoun
     </entry>
   
     <entry>
-      <title type="html">La Ruche</title>
-      <link href="http://localhost:4000/laruche" rel="alternate" type="text/html" title="La Ruche" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/laruche</id>
-      <content type="html" xml:base="http://localhost:4000/laruche">&lt;p&gt;La Ruche (&lt;em&gt;hive&lt;/em&gt; in English) is a network of incubators dedicated to social innovation. Its action includes co-working, incubation, events, but also the establishment of large-scale partnerships allowing each actor or startup to give birth to his project or idea in the best conditions, be it at Paris, in the region or in the whole of France with different “hives”.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;La Ruche&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris - Saint-Germain-en-Laye, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;3200 m2&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
-      &lt;td&gt;125 projects per year&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;La Ruche offers an incubation program for women in tech, &lt;br /&gt;called &lt;a href=&quot;https://www.les-audacieuses.org&quot;&gt;&lt;em&gt;“Les Audacieuses”&lt;/em&gt;&lt;/a&gt; and member of the &lt;a href=&quot;http://www.les-ambitieuses.tech&quot;&gt;&lt;em&gt;Tech for Good&lt;/em&gt;&lt;/a&gt; project&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;Starting at 145€/month&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Launched 11 ago with the conviction that a responsible and collaborative society was possible, La Ruche offers a range of services for entrepreneurs and young startups, from incubation to growth through advice and co-working spaces in all France.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/laruche-photo.jpg&quot; alt=&quot;La Ruche HQ&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;the-place-to-bee&quot;&gt;&lt;em&gt;“The Place to Bee”&lt;/em&gt;&lt;/h2&gt;
-
-&lt;p&gt;From hackatons to half-day to several days trainings, La Ruche offers a range of support for entrepreneurs and startups. In 1 year, more than 125 projects were incubated with an 83% survival rate of incubated entrepreneurs in the first 3 years.&lt;/p&gt;
-
-&lt;p&gt;Regarding the workspaces, I will focus on HQs in Île-de-France and Paris Region, but La Ruche also has workspaces in &lt;a href=&quot;https://la-ruche.net/ruche/bordeaux/&quot;&gt;Bordeaux&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/marseille/&quot;&gt;Marseille&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/saint-nazaire/&quot;&gt;Saint-Nazaire&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/montpellier/&quot;&gt;Montpellier&lt;/a&gt; and more.&lt;/p&gt;
-
-&lt;p&gt;With 3200m² dedicated to the positive economy and a terrace of more than 200m² in Paris, La Ruche welcomes project leaders driven by social entrepreneurship, digital technology and culture.
-You find an astonishing diversity among co-workers, such as entrepreneurs, associations, employees, teleworkers, self-employed and intrapreneurs. Each category has its own tariff range adapted to its needs.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/laruche-photo2.jpg&quot; alt=&quot;La Ruche HQ&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;programs-for-all&quot;&gt;Programs for all&lt;/h2&gt;
-
-&lt;p&gt;La Ruche offers special rates for everyone, and offers 5 programs :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Closed offices&lt;/strong&gt; (starting 1k€/month) with offices for up to 20 people, with a commitment of 6 months and unlimited access.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Full time program&lt;/strong&gt; (starting at 350€/month) with unlimited access, a fixed office for 1 person and a 3-month commitment.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Half time program&lt;/strong&gt; (starting at 235€/month) with an access 20 half-days (or 10 days per month), a fixed office for 1 person and a 2-month commitment.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Quarter time program&lt;/strong&gt; (starting at 145€/month) with an access 10 half-days (or 5 days per month), a fixed office for 1 person and a 2-month commitment.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Full time company program&lt;/strong&gt; (starting at 500€/month) with unlimited access and more.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Startups have free Internet, printer, an access to 9 meeting rooms, a 220m² terrace, a kitchen/sleep room, training sessions, an access to meeting-space for your public events and of course, national professionals from La Ruche’s network.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Le +&lt;/em&gt; : As a &lt;em&gt;Paris Innovation&lt;/em&gt; certified incubator by the Paris City Hall, startups located in La Ruche can apply for a funding with &lt;a href=&quot;https://www.economie.gouv.fr/entreprises/financez-votre-projet-innovant-grace-a-paris-innovation-amorcage&quot;&gt;&lt;em&gt;Paris Innovation Amorçage&lt;/em&gt; funding program&lt;/a&gt;. Created to support the development of startups hosted in incubators labeled &lt;em&gt;Paris Innovation&lt;/em&gt;, it is aimed at any innovative project in the seed or development phase.
-Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images/71646&quot;&gt;detailed presentation&lt;/a&gt; of this program and to contact, as the case may be, the &lt;a href=&quot;http://www.bpifrance.fr/Contactez-nous/Direction-regionale-Paris&quot;&gt;Paris Regional Office of &lt;em&gt;Bpifrance Île de France&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;La Ruche® Paris&lt;/strong&gt; &lt;br /&gt; 24 Rue de l’Est &lt;br /&gt; 75020 Paris &lt;br /&gt; &lt;em&gt;paris@la-ruche.net&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33 (0)1 83 64 59 04&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10497.279555023!2d2.3934424!3d48.8711781!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9637fb10c7b597f2!2sLa+Ruche!5e0!3m2!1sfr!2sfr!4v1566395464386!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="incubators" />
-      
-
-      
-        <summary type="html">La Ruche (hive in English) is a network of incubators dedicated to social innovation. Its action includes co-working, incubation, events, but also the establishment of large-scale partnerships allowing each actor or startup to give birth to his project or idea in the best conditions, be it at Paris, in the region or in the whole of France with different “hives”.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">NUMA</title>
-      <link href="http://localhost:4000/numa" rel="alternate" type="text/html" title="NUMA" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/numa</id>
-      <content type="html" xml:base="http://localhost:4000/numa">&lt;p&gt;Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;NUMA&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
-      &lt;td&gt;300&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;NUMA offers a free open-space with bar on the ground floor&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;Free co-working space &lt;br /&gt; Privatization of rooms from 1200€/day&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;It all started in 2000 with &lt;em&gt;Silicon Sentier&lt;/em&gt;, an entrepreneur association with more than 180 partner companies. Their initial objective was to encourage meetings between entrepreneurs and to allow new projects to emerge and floor on the &lt;em&gt;Next Big Thing&lt;/em&gt;. The idea was to design a network capable of promoting and facilitating the development of entrepreneurship at the national level, and that’s what became NUMA today.&lt;/p&gt;
-
-&lt;p&gt;NUMA is not only an open space for entrepreneurs or small businesses today, it’s a hub of more than 300 organizations, including CAC40 leaders and hundreds of startups - with a presence in Paris, Barcelona, Mexico, Toulouse, Berlin and even New York.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/numa-photo.jpg&quot; alt=&quot;NUMA HQ&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;not-only-an-open-space&quot;&gt;Not only an open-space&lt;/h2&gt;
-
-&lt;p&gt;The first time I went to NUMA, it was just to have a place where to discuss professionally with other students, entrepreneurs and business leaders, I also discovered a free space co-working on the ground floor, with possibility to rent different rooms for &lt;a href=&quot;https://www.numa.co/fr/reservation-de-salles&quot;&gt;private meetings&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;But my biggest surprise was to discover the “formations”. Today, the challenge is not only to master the technical aspect of a project but also the notions of management, intrapreneurship, design thinking and digital marketing. And guess what? That’s exactly what NUMA offers. In fact, we understand quickly that we do not invest only in a HQ or a place to work, but in a long-term support of your project.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/numa-photo2.jpg&quot; alt=&quot;NUMA HQ&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;to-infinity-and-beyond&quot;&gt;“To infinity and beyond”&lt;/h2&gt;
-
-&lt;p&gt;Regarding the incubation program, NUMA brings its expertise to startups already on the market and having a consequent turnover, for 3.5 % equity participation.
-NUMA’s philosophy is based on the development of the startups’ business and network, the implementation of a rigorous and effective methodology for executing their strategy as well as long-term support through a mentoring system with experts.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Looking for something fun to do there, to discover the atmosphere of NUMA ? Do not hesitate to visit “La Cantine”, the first collaborative workspace created in Île-de-France Region, where many celebrities have passed to make conferences and exchange with members, like Mark Zuckerberg.&lt;/em&gt;&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;NUMA Paris&lt;/strong&gt; &lt;br /&gt; 39 Rue du Caire&lt;br /&gt; 75002 Paris &lt;br /&gt; &lt;em&gt;+33 (0)1 40 13 64 40&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10498.002257592629!2d2.3497182!3d48.8677334!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1715b707d5c6af5e!2sNuma+Paris!5e0!3m2!1sfr!2sfr!4v1566312566704!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="incubators" />
-      
-
-      
-        <summary type="html">Not just an open space for entrepreneurs, NUMA is an international hub of more than 300 organizations, including CAC40 leaders and hundreds of startups. Training and follow-up are at the heart of NUMA’s philosophy.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Pépinière 27</title>
-      <link href="http://localhost:4000/pepiniere27" rel="alternate" type="text/html" title="Pépinière 27" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/pepiniere27</id>
-      <content type="html" xml:base="http://localhost:4000/pepiniere27">&lt;p&gt;With more than 100 startups incubated in a general and multi-disciplinary ecosystem, Pépinière 27 is a Parisian incubator offering both a flexible hosting and support services, but also a rich and inspiring infrastructure, like a natural greenhouse where knowledge flourishes.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;Pépinière 27&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;3500 m2 of offices, 100 m2 of common areas &lt;br /&gt; + gym room, relaxation area, …&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
-      &lt;td&gt;100&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Pépinière 27 is labeled &lt;em&gt;“Paris Innovation”&lt;/em&gt; by the City of Paris &lt;br /&gt;+ Access to the &lt;a href=&quot;https://www.economie.gouv.fr/entreprises/financez-votre-projet-innovant-grace-a-paris-innovation-amorcage&quot;&gt;“PIA” (&lt;em&gt;Paris Innovation Amorçage&lt;/em&gt;) funding program&lt;/a&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;Starting at 250€/month&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;What’s more inspiring than a natural-looking greenhouse with an important infrastructure and quality accommodation, all in the heart of Paris ? Powered by the &lt;em&gt;Paris Innovation&lt;/em&gt; label, Pépinière 27 is the ultimate friendly incubator with nearly 4 million euros raised by only 8 startups of the incubator.&lt;/p&gt;
-
-&lt;p&gt;In this  friendly ecosystem, you have the choice between open or closed offices according to your needs, with a large common area free co-working, a waiting room, 9 meeting rooms fully equipped and relaxation areas (gym, patio). The team is composed of only 10 people with always a presence in the HQ.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/pepiniere27-photo.jpg&quot; alt=&quot;Pépinière 27 HQ&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;an-accompanying-offer&quot;&gt;An accompanying offer&lt;/h2&gt;
-
-&lt;p&gt;Providing to startups an offer of hosting to work is something great, but an incubator would not be an incubator if it did not offer a continuous support. Thus, Pépinière 27 offers business workshops, networking meetings, conferences, networking with experts in your field, as well as an access to a social platform bringing together all incubated startups.&lt;/p&gt;
-
-&lt;p&gt;Pépinière 27 offers 3 programs for startups. &lt;strong&gt;Offices open&lt;/strong&gt; starting at 560€/month (+ fees) or &lt;strong&gt;private&lt;/strong&gt; (starting at 680€/month + fees) with the possibility of joining the &lt;strong&gt;Associate Program&lt;/strong&gt;, allowing you to get :&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A postal address at &lt;em&gt;27 rue du Chemin Vert (Paris 75011)&lt;/em&gt; with the management of your receptions and mailings stamped.&lt;/li&gt;
-  &lt;li&gt;A permanent access badge to the premises (24h/24 and 7/7)&lt;/li&gt;
-  &lt;li&gt;An access to the meeting rooms for the reception of your customers (according to availability)&lt;/li&gt;
-  &lt;li&gt;A permanent access to the gym room&lt;/li&gt;
-  &lt;li&gt;An access to the cafeteria&lt;/li&gt;
-  &lt;li&gt;A profile of your company on the Pépinière 27’s intranet (news feed, events, meeting rooms booking, chat, …)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/pepiniere27-photo2.jpg&quot; alt=&quot;Pépinière 27 HQ&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;certified-paris-innovation-by-the-city-of-paris&quot;&gt;Certified &lt;em&gt;Paris Innovation&lt;/em&gt; by the City of Paris&lt;/h2&gt;
-
-&lt;p&gt;As a &lt;em&gt;Paris Innovation&lt;/em&gt; certified incubator by the Paris City Hall, startups located in Pépinière 27 can apply for a funding with &lt;a href=&quot;https://www.economie.gouv.fr/entreprises/financez-votre-projet-innovant-grace-a-paris-innovation-amorcage&quot;&gt;&lt;em&gt;Paris Innovation Amorçage&lt;/em&gt; funding program&lt;/a&gt;. Created to support the development of startups hosted in incubators labeled &lt;em&gt;Paris Innovation&lt;/em&gt;, it is aimed at any innovative project in the seed or development phase.
-Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images/71646&quot;&gt;detailed presentation&lt;/a&gt; of this program and to contact, as the case may be, the &lt;a href=&quot;http://www.bpifrance.fr/Contactez-nous/Direction-regionale-Paris&quot;&gt;Paris Regional Office of &lt;em&gt;Bpifrance Île de France&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;To learn more about Pépinière 27, the reception is open from 9am to 6:30pm, if you want to have a preview of the atmosphere and the place, &lt;a href=&quot;http://www.pepiniere27.fr/creation-entreprises/paris-centre/contact&quot;&gt;don’t hesitate to go there&lt;/a&gt;. It’s  only 5 minutes from the &lt;em&gt;Place de la Bastille&lt;/em&gt; !&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Pépinière 27&lt;/strong&gt; &lt;br /&gt; 27 Rue du chemin vert &lt;br /&gt; 75013 Paris &lt;br /&gt; &lt;em&gt;+33 (0)1 75 77 87 00&lt;/em&gt; &lt;br /&gt; &lt;em&gt;contact@pepiniere27.fr&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10499.910448879366!2d2.3730712!3d48.8586373!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x168725100877ba2b!2zUMOpcGluacOocmUgMjc!5e0!3m2!1sfr!2sfr!4v1566386492346!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="incubators" />
-      
-
-      
-        <summary type="html">With more than 100 startups incubated in a general and multi-disciplinary ecosystem, Pépinière 27 is a Parisian incubator offering both a flexible hosting and support services, but also a rich and inspiring infrastructure, like a natural greenhouse where knowledge flourishes.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Startup42</title>
-      <link href="http://localhost:4000/startup42" rel="alternate" type="text/html" title="Startup42" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/startup42</id>
-      <content type="html" xml:base="http://localhost:4000/startup42">&lt;p&gt;Founded in 2013 by &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;, Startup42 is a “fast &amp;amp; serious” project accelerator designed to offer hacker teams with a good idea the skills and opportunities they need to become startup founders, create an impactful product and actually sell it.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;StartUp42, or SU42&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Kremlin-Bicêtre, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;NC&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;Startup42 is located in the HQs of EPITA and Epitech, &lt;br /&gt;and benefit from the expertise of these two schools&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;Free (no equity or hosting fee)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Created only 6 years ago, StartUp42 has already incubated nearly 51 startups, representing more than 200 jobs and 12 million euros. Behind all this, an expertise of engineers, developers and experts from all horizons, but also long-standing partners like FranceTV, Econocom and OpenDataSoft. StartUp42 is specialized in software : mobile/web apps, telecom, network, big data, cloud, SaaS with a focus on B2B.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/startup42-photo.jpg&quot; alt=&quot;StartUp42 HQ&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;from-hackers-to-founders&quot;&gt;From hackers to founders&lt;/h2&gt;
-
-&lt;p&gt;StartUp42 provides an intense program for startups with a tech innovation. The typical profile is an engineer, developer or expert confirmed, with an innovative idea and the technical capabilities that go with it.&lt;/p&gt;
-
-&lt;p&gt;Everyone cannot join the program, there is a selection at the entrance but also during the incubation : If you are selected, you will be evaluated during the first two months at StartUp42. If this period is conclusive for your project, StartUp42 renews its partnership for 2 next months, with &lt;strong&gt;possibility to renew indefinitely and free of charge the partnership&lt;/strong&gt; !&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/startup42-photo2.jpg&quot; alt=&quot;StartUp42 HQ&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;a-bodybuilder-program&quot;&gt;A bodybuilder program&lt;/h2&gt;
-&lt;p&gt;By joining StartUp42, you will benefit from a daily follow-up on the design of your project, its commercial strategy or even its sales force. According to StartUp42, the acceleration is built around sequences of 4-weeks iterations divided in 2-weeks sprints of build and 2-weeks sprints of measuring the feedback and learning from them.&lt;/p&gt;
-
-&lt;p&gt;The goal of the first two weeks is to design a viable product, then to obtain during the other two weeks a customer client feedback to analyze and improve the product. Then, this cycle is renewed.&lt;/p&gt;
-
-&lt;p&gt;This is an original and condensed method but the results show that it is positive for incubated startups. I advise you to take a look at the &lt;a href=&quot;http://www.startup42.org/manifesto.html&quot;&gt;manifesto&lt;/a&gt; of StartUp42, because after all, &lt;a href=&quot;https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything_(42)&quot;&gt;42 is the answer to life the universe and everything&lt;/a&gt; !&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;StartUp42&lt;/strong&gt; &lt;br /&gt; 18 Rue Pasteur &lt;br /&gt;94270 Le Kremlin-Bicêtre &lt;br /&gt; &lt;em&gt;www.startup42.org/contact.html&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10509.020639442526!2d2.3623068!3d48.8151928!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x924e39da394df869!2sStartup42!5e0!3m2!1sfr!2sfr!4v1566747491865!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="incubators" />
-      
-
-      
-        <summary type="html">Founded in 2013 by EPITA, Startup42 is a “fast &amp;amp; serious” project accelerator designed to offer hacker teams with a good idea the skills and opportunities they need to become startup founders, create an impactful product and actually sell it.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Station F</title>
-      <link href="http://localhost:4000/stationf" rel="alternate" type="text/html" title="Station F" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/stationf</id>
-      <content type="html" xml:base="http://localhost:4000/stationf">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;STATION F&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;xxx €&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
-
-&lt;p&gt;Blablablabla&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;Contact&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="incubators" />
-      
-
-      
-        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Ecole 42</title>
-      <link href="http://localhost:4000/ecole42" rel="alternate" type="text/html" title="Ecole 42" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/ecole42</id>
-      <content type="html" xml:base="http://localhost:4000/ecole42">&lt;p&gt;École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the &lt;em&gt;“self-study”&lt;/em&gt; learning method through dozens of projects and programming rushs (called &lt;em&gt;“pools”&lt;/em&gt;).&lt;/p&gt;
+      <title type="html">Epitech</title>
+      <link href="http://localhost:4000/epitech" rel="alternate" type="text/html" title="Epitech" />
+      <published>2019-03-19T00:40:00+01:00</published>
+      <updated>2019-03-19T00:40:00+01:00</updated>
+      <id>http://localhost:4000/epitech</id>
+      <content type="html" xml:base="http://localhost:4000/epitech">&lt;p&gt;Epitech (also called European Institute of Technology) is private Computer Science School with multiple campuses around the world and in Europe. The school offers computer courses to international and exchange students.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -804,222 +1057,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;🏢 School Name&lt;/td&gt;
-      &lt;td&gt;École 42, 42 School &lt;em&gt;or&lt;/em&gt; 42&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;⚖️ Type&lt;/td&gt;
-      &lt;td&gt;Self-study institution / Association&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;📆 Course Duration&lt;/td&gt;
-      &lt;td&gt;2 to 5 years&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
-      &lt;td&gt;Accepted&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;Free&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Created in 2013 by Xavier Niel (CEO Free &amp;amp; Iliad Group) and Nicolas Sadirac (ex-Director Epitech), École 42 is a French Computer Science institution that prepares students for the computer and code development professions.
-By training young people from all horizons, École 42 intends to highlight the capacity of innovation and digital transformation of companies in France and around the world.&lt;/p&gt;
-
-&lt;p&gt;At École 42, there is no course and no teachers, it is only learning peer-to-peer (or self-study). There are no notes and everyone progresses at their own pace through dozens of projects (team or alone) as well as many programming rushes (inspired by the EPITA and Epitech “pool”).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/42-photo.jpg&quot; alt=&quot;42 France campus&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;born-to-code&quot;&gt;“Born to code”&lt;/h2&gt;
-
-&lt;p&gt;To join École 42, no prerequisites are needed but only a period of programming rush, called the “Piscine” (or pool) : It is an immersion in the world of coding, used to identify the most motivated students. During 1 month, you will be able to discover the different aspects of the school and its method of learning. Best thing ? You can sleep for free in the school during this period. 2 weeks after the end of the pool, you will receive your results telling you if you can join the school or not.&lt;/p&gt;
-
-&lt;p&gt;If you succeed, the training will last from 2 to 5 years according to your choice of studies. The program at École 42 is divided into 2 main parts : the compulsory notions to be acquired for a permanent job as a developer, such as network or algorithmic, followed by a phase of improvement during which the student can discover the many facets of development (Security, Artificial Intelligence, Deep learning, AR/VR, …).&lt;/p&gt;
-
-&lt;p&gt;At the end of your studies, École 42 does not give a state-recognised degree, as the school is not officially considered as school but more as a non-profit association. However, the expertise of developers from 42 is now recognised in many companies around the world.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/42-photo2.jpg&quot; alt=&quot;42 France campus&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-campus-open-all-the-time&quot;&gt;A campus open all the time&lt;/h2&gt;
-
-&lt;p&gt;The French campus of École 42 is located in the north of Paris, in a recent and well-equipped building. You will find dormitories, a canteen, food trucks, gaming areas, conference rooms and many machine rooms with computers (running macOS). The school currently has 9 clubs, including air-soft, training and sale of business services.&lt;/p&gt;
-
-&lt;p&gt;A few months ago, 42 France announced the expansion of the initial campus with the initiative &lt;em&gt;“Not A Campus”&lt;/em&gt; (NOC). This new campus will include club space, open-spaces, a collaborative grocery store, a fitness room, a student residence, green spaces and gardens (open to everyone).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nota Bene&lt;/strong&gt; : Due to growing interest of the École 42’s method around the world, the school opened a second campus few years ago, in the Silicon Valley (Fremont, CA). The philosophy is the same and if you are interested in the American campus, don’t hesitate to visit their website 42.us.org.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;em&gt;42 France&lt;/em&gt; does not offer specific contact, but I invite you to visit the admissions website : &lt;strong&gt;candidature.42.fr&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10491.943364787661!2d2.318501!3d48.896607!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4e808812dd36a382!2s42!5e0!3m2!1sfr!2sfr!4v1565026855796!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="schools" />
-      
-
-      
-        <summary type="html">École 42 is a French institution specialised in free and open courses without any prerequisites. During 2 to 5 years, the school trains hundreds of developers by proposing the “self-study” learning method through dozens of projects and programming rushs (called “pools”).</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Efrei</title>
-      <link href="http://localhost:4000/efrei" rel="alternate" type="text/html" title="Efrei" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/efrei</id>
-      <content type="html" xml:base="http://localhost:4000/efrei">&lt;p&gt;Located only 15 minutes from Paris, Efrei is a general engineering school of digital technologies founded almost 90 years ago. Efrei delivers a French engineering degree since 1957 and offers French and English courses to foreign students.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 School Name&lt;/td&gt;
-      &lt;td&gt;École d’ingénieur généraliste en informatique et technologies du numérique (Efrei Paris)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Villejuif, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;⚖️ Type&lt;/td&gt;
-      &lt;td&gt;Private Engineering School&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;📆 Course Duration&lt;/td&gt;
-      &lt;td&gt;3 to 5 years&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
-      &lt;td&gt;Accepted&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;9200€/year (students from Europe and Africa) &lt;br /&gt; 10900€/year (other students)&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Located in a small town near Paris in a cozy campus, Efrei is a private engineering school specialized in digital technologies, with different programs for international students. The school was founded almost 90 years ago and merged 2 years ago with Esigetel (another engineering school) to become &lt;em&gt;Efrei Paris&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/efrei-photo.jpg&quot; alt=&quot;Efrei campus&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;digital-tech-at-the-center-of-education&quot;&gt;Digital tech at the center of education&lt;/h2&gt;
-&lt;p&gt;When we talk about new technologies, most of us think about computer science or IT, but Efrei offers a teaching around digital technologies. Thanks to that, students build their own personalized program : they have the choice between 4 integrated “classes préparatoires” and 12 majors covering all digital domains (including 6 in full English, see below).&lt;/p&gt;
-
-&lt;p&gt;For international students, Efrei offers a &lt;em&gt;Master of Engineering&lt;/em&gt; (or &lt;em&gt;Diplôme d’ingénieur&lt;/em&gt; in French), including 3 years of undergraduate education and 2 years at the graduate level.&lt;/p&gt;
-
-&lt;p&gt;Efrei’s undergraduate program is composed of scientific and technical engineering courses that are both general, such as mathematics, electronics, computer science or physics. It is a great way to prepare future engineers for their future responsibilities in the professional world.&lt;/p&gt;
-
-&lt;p&gt;After this period, students develop and refine their career goals, making them job-ready thanks to different majors, and some of them are completely in English, like : software engineering, finance, big data, business, networks and cloud IT. If you feel comfortable with French, you can also orient yourself in AR/VR, droids, drones, avionics, space, or even renewable energies.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;We are committed to training engineers conscious of others and open to the world, combining technical expertise and interpersonal know-how as innovators or entrepreneurs. In order to achieve this result, we are constantly striving to innovate, in a dynamic of digital and pedagogical transformation.&lt;/strong&gt; &lt;br /&gt; Philippe Volle, Dean of Studies and Research&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/efrei-photo2.jpg&quot; alt=&quot;Efrei campus&quot; /&gt;&lt;/p&gt;
-&lt;h2 id=&quot;a-cozy-campus&quot;&gt;A cozy campus&lt;/h2&gt;
-&lt;p&gt;The campus is nice and well placed, you have public transport to reach Paris and other schools nearby as EPITA, Sup’Biotech or Epitech. You will find less expensive accommodation in Villejuif or Kremlin-Bicêtre than in Paris. &lt;em&gt;Le +&lt;/em&gt; : The Val-de-Marne department offers a &lt;a href=&quot;https://www.valdemarne.fr/a-votre-service/deplacement/transports/remboursement-de-la-carte-imagine-r&quot;&gt;refund of part of your transport costs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Student life is also active in Efrei campus, with around 50 different clubs, like photography, movies, 3D modeling, aviation, gaming and international (do not hesitate to contact &lt;a href=&quot;https://www.facebook.com/efrei.int/&quot;&gt;EFREI Int’&lt;/a&gt;, which welcomes foreign students in the school).&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;🌐 &lt;em&gt;International Relation Service&lt;/em&gt; 🌐&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Christiane Michel&lt;/strong&gt; &lt;br /&gt; Director of International Relations &lt;br /&gt; Head of Language Department &lt;br /&gt;&lt;em&gt;christiane.michel@efrei.fr&lt;/em&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2628.64152079161!2d2.3615440156719227!3d48.7887336792807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e673e24e04a9c3%3A0xc55cb3e676f95321!2sEfrei+Paris!5e0!3m2!1sfr!2sfr!4v1566044753050!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name>Tom-Eliott Herfray</name>
-        
-        
-      </author>
-
-      
-
-      
-        <category term="schools" />
-      
-
-      
-        <summary type="html">Located only 15 minutes from Paris, Efrei is a general engineering school of digital technologies founded almost 90 years ago. Efrei delivers a French engineering degree since 1957 and offers French and English courses to foreign students.</summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">EPITA</title>
-      <link href="http://localhost:4000/epita" rel="alternate" type="text/html" title="EPITA" />
-      <published>2019-03-02T11:42:00+01:00</published>
-      <updated>2019-03-02T11:42:00+01:00</updated>
-      <id>http://localhost:4000/epita</id>
-      <content type="html" xml:base="http://localhost:4000/epita">&lt;p&gt;Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;&lt;strong&gt;The Info Box&lt;/strong&gt;&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;🏢 School Name&lt;/td&gt;
-      &lt;td&gt;École pour l’Informatique et les Techniques Avancées (EPITA)&lt;/td&gt;
+      &lt;td&gt;École pour l’Informatique et les Nouvelles Technologies (EPITECH)&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🌐 Location&lt;/td&gt;
@@ -1027,11 +1065,11 @@ By training young people from all horizons, École 42 intends to highlight the c
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;⚖️ Type&lt;/td&gt;
-      &lt;td&gt;Private Engineering School&lt;/td&gt;
+      &lt;td&gt;Private Computer Science School&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;📆 Course Duration&lt;/td&gt;
-      &lt;td&gt;18 months to 3 years&lt;/td&gt;
+      &lt;td&gt;5 years&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🇪🇺 Erasmus Students&lt;/td&gt;
@@ -1039,33 +1077,27 @@ By training young people from all horizons, École 42 intends to highlight the c
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;≈ 9000€/year + fees&lt;/td&gt;
+      &lt;td&gt;6630€/year to 8580€/year (+ fees)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Created in 1984, EPITA (School for Computer Science and Advanced Techniques) is an engineering school located in Île-de-France Region, specialised in Computer Science. The school offers various degree programs for international students, which can mingle with French students (of which I am a member) on the main campus located in Kremlin-Bicêtre, just a few minutes from Paris.&lt;/p&gt;
+&lt;p&gt;Based on EPITA computer science courses, Epitech is a private Computer Science School with numerous campuses in Europe and in the world. With more than 5000 students, Epitech uses self-study method, mainly in group projects and with very few hours of theoretical courses, all supervised by students from the higher grades.&lt;/p&gt;
 
-&lt;p&gt;Main campus is made up of different buildings and many rooms with computers of last generations (Linux and macOS). Campus is shared with another school, Epitech, a computer school that offers IT degree. I invite you also to read Epitech’s presentation.&lt;/p&gt;
+&lt;p&gt;Most of the students work from their personal computer and manage their own projects themselves, allowing them to gain autonomy. In contrast to EPITA, theoretical scientific subjects such as mathematics or physics are thus not addressed during the course.&lt;/p&gt;
 
-&lt;p&gt;EPITA offers 4 degree programs for international students : a Bachelor of Computer Science (BCS), two Masters of Science (in Computer Science and AI Systems) and a Master of Computer Engineering. In addition to these courses, EPITA also offers bootcamps and entrepreneurship short programs and joint &amp;amp; dual degrees.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epitech-photo2.jpg&quot; alt=&quot;EPITECH campus&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epita-photo.jpg&quot; alt=&quot;EPITA campus&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;different-courses-for-different-profiles&quot;&gt;Different courses for different profiles&lt;/h2&gt;
+&lt;p&gt;The school has several rooms equipped with powerful computers and the Epitech Innovation Hub offers a place with all the equipment and environment for enthusiasts to design innovative technological solutions.&lt;/p&gt;
 
-&lt;h2 id=&quot;a-wide-range-of-specialization&quot;&gt;A wide range of specialization&lt;/h2&gt;
-&lt;p&gt;During your studies, you will be able to choose majors, such as Global IT Management, Software Development, Project management, Advanced Algorithms, IOT, Networks &amp;amp; Security and more. You will also attend general courses in the early years, such as algorithmics, linear algebra, thermodynamic physics, computer architecture and electronics.&lt;/p&gt;
+&lt;p&gt;Epitech offers two main courses. The first, the Bachelor program, takes place in 3 years. You learn the fundamentals using projects and “pools” (rush of programming) : you will have nearly 37 projects in 3 years, as well as management training courses.
+At the end of the first 3 years, you can continue with the Advanced/Expert program (in 2 years, in addition to the first 3 years), you obtain a postgraduate degree “Expert in Information Technology”, accredited level 1 by the National Commission for Vocational Certifications, with the possibility of doing a double degree with ISG, a French business school in Paris.&lt;/p&gt;
 
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;EPITA is a school that allows everyone to discover computing through workshops and multiple projects. Every student can find or discover a new passion, whether it’s about security or project management.&lt;/strong&gt;&lt;br /&gt;
-– Samy Hussaein, EPITA 4th year Student&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epitech-photo.jpg&quot; alt=&quot;EPITECH campus&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;assets/images/schools/img/epita-photo2.jpg&quot; alt=&quot;EPITA campus&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-very-active-student-life&quot;&gt;A very active student life&lt;/h2&gt;
-&lt;p&gt;The Student Life is very active in the main campus, with more than 70 clubs and organizations, like video games, programming, movies club and more. Only a few minutes from public transport, you can easily reach the center of Paris and nice places. &lt;em&gt;Le +&lt;/em&gt; : The Val-de-Marne department offers a &lt;a href=&quot;https://www.valdemarne.fr/a-votre-service/deplacement/transports/remboursement-de-la-carte-imagine-r&quot;&gt;refund of part of your transport costs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Finally, as a part of your final semester, you will have to do an internship. Paris and surrounding cities host many startups and large companies, like Apple, Google, Microsoft and Facebook. The French Tech is also a great way to discover new French startups with great potential, like in the incubator Station F, just ten minutes from the EPITA campus.&lt;/p&gt;
+&lt;h2 id=&quot;an-influential-student-community&quot;&gt;An influential student community&lt;/h2&gt;
+&lt;p&gt;Epitech not only shares its campus with EPITA, but also its hundreds of clubs. You will find video game, movies, programming, photo clubs and more. Epitech students also have access to a set of common services at the technology campus : network of associations, large cafeteria and more. Epitech  also enjoys privileged access to numerous student residences : 2 at the Kremlin Bicêtre (including one on campus) and another in Villejuif (10-15 minutes from Paris). &lt;em&gt;Le +&lt;/em&gt; : The Val-de-Marne department offers a &lt;a href=&quot;https://www.valdemarne.fr/a-votre-service/deplacement/transports/remboursement-de-la-carte-imagine-r&quot;&gt;refund of part of your transport costs&lt;/a&gt;.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -1075,12 +1107,12 @@ By training young people from all horizons, École 42 intends to highlight the c
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Rabih HADDAD&lt;/strong&gt; &lt;br /&gt; Director of International Programs &lt;br /&gt; &lt;em&gt;rabih.haddad@epita.fr&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33 (0)1 80 51 71 37&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Ksenia ANDREEVA&lt;/strong&gt; &lt;br /&gt; Head of International Education Office &lt;br /&gt; &lt;em&gt;ksenia.andreeva@epitech.eu&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33 (0)1 84 07 14 12&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10508.92156903637!2d2.3628171!3d48.8156654!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x581b7c8cd0a77c3e!2sEcole+d%E2%80%99ing%C3%A9nieurs+en+informatique+-+EPITA!5e0!3m2!1sfr!2sfr!4v1565021285281!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d42014.45684238378!2d2.3332073273819454!3d48.84097834703352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e6717ff972ae09%3A0x692326b123aa4d9b!2sEpitech+Paris!5e0!3m2!1sfr!2sfr!4v1565026117017!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 
       
       
@@ -1101,7 +1133,7 @@ By training young people from all horizons, École 42 intends to highlight the c
       
 
       
-        <summary type="html">Specialised in Computer Science and Engineering since 1984, EPITA is a private French engineering school located a few minutes from Paris, which offers several degree programs in English for international students, from Bachelor to Master.</summary>
+        <summary type="html">Epitech (also called European Institute of Technology) is private Computer Science School with multiple campuses around the world and in Europe. The school offers computer courses to international and exchange students.</summary>
       
 
       
