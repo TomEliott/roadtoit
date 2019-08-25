@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/author/tomeliott/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-25T17:25:23+02:00</updated>
+  <updated>2019-08-25T18:18:52+02:00</updated>
   <id>http://localhost:4000/author/tomeliott/feed.xml</id>
 
   
@@ -613,7 +613,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
       <published>2019-03-02T11:42:00+01:00</published>
       <updated>2019-03-02T11:42:00+01:00</updated>
       <id>http://localhost:4000/startup42</id>
-      <content type="html" xml:base="http://localhost:4000/startup42">&lt;p&gt;Founded in 2013 by &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;, Startup42 is a “fast &amp;amp; serious” project accelerator&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/startup42">&lt;p&gt;Founded in 2013 by &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;, Startup42 is a “fast &amp;amp; serious” project accelerator designed to offer hacker teams with a good idea the skills and opportunities they need to become startup founders, create an impactful product and actually sell it.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -625,7 +625,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;StartUp42 by EPITA&lt;/td&gt;
+      &lt;td&gt;StartUp42, or SU42&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🌐 Location&lt;/td&gt;
@@ -633,22 +633,35 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;NC&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;Startup42 is located in the HQs of EPITA and Epitech, &lt;br /&gt;and benefit from the expertise of these two schools&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;NC&lt;/td&gt;
+      &lt;td&gt;Free (no equity or hosting fee)&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+&lt;p&gt;Created only 6 years ago, StartUp42 has already incubated nearly 51 startups, representing more than 200 jobs and 12 million euros. Behind all this, an expertise of engineers, developers and experts from all horizons, but also long-standing partners like FranceTV, Econocom and OpenDataSoft. StartUp42 is specialized in software : mobile/web apps, telecom, network, big data, cloud, SaaS with a focus on B2B.&lt;/p&gt;
 
-&lt;p&gt;Blablablabla&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/startup42-photo.jpg&quot; alt=&quot;StartUp42 HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;from-hackers-to-founders&quot;&gt;From hackers to founders&lt;/h2&gt;
+
+&lt;p&gt;StartUp42 provides an intense program for startups with a tech innovation. The typical profile is an engineer, developer or expert confirmed, with an innovative idea and the technical capabilities that go with it.&lt;/p&gt;
+
+&lt;p&gt;Everyone cannot join the program, there is a selection at the entrance but also during the incubation : If you are selected, you will be evaluated during the first two months at StartUp42. If this period is conclusive for your project, StartUp42 renews its partnership for 2 next months, with &lt;strong&gt;possibility to renew indefinitely and free of charge the partnership&lt;/strong&gt; !&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/startup42-photo2.jpg&quot; alt=&quot;StartUp42 HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;a-bodybuilder-program&quot;&gt;A bodybuilder program&lt;/h2&gt;
+&lt;p&gt;By joining StartUp42, you will benefit from a daily follow-up on the design of your project, its commercial strategy or even its sales force. According to StartUp42, the acceleration is built around sequences of 4-weeks iterations divided in 2-weeks sprints of build and 2-weeks sprints of measuring the feedback and learning from them.&lt;/p&gt;
+
+&lt;p&gt;The goal of the first two weeks is to design a viable product, then to obtain during the other two weeks a customer client feedback to analyze and improve the product. Then, this cycle is renewed.&lt;/p&gt;
+
+&lt;p&gt;This is an original and condensed method but the results show that it is positive for incubated startups. I advise you to take a look at the &lt;a href=&quot;http://www.startup42.org/manifesto.html&quot;&gt;manifesto&lt;/a&gt; of StartUp42, because after all, &lt;a href=&quot;https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life,_the_Universe,_and_Everything_(42)&quot;&gt;42 is the answer to life the universe and everything&lt;/a&gt; !&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -658,10 +671,12 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;StartUp42&lt;/strong&gt; &lt;br /&gt; 18 Rue Pasteur &lt;br /&gt;94270 Le Kremlin-Bicêtre &lt;br /&gt; &lt;em&gt;www.startup42.org/contact.html&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content>
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10509.020639442526!2d2.3623068!3d48.8151928!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x924e39da394df869!2sStartup42!5e0!3m2!1sfr!2sfr!4v1566747491865!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 
       
       
@@ -682,7 +697,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
       
 
       
-        <summary type="html">Founded in 2013 by EPITA, Startup42 is a “fast &amp;amp; serious” project accelerator</summary>
+        <summary type="html">Founded in 2013 by EPITA, Startup42 is a “fast &amp;amp; serious” project accelerator designed to offer hacker teams with a good idea the skills and opportunities they need to become startup founders, create an impactful product and actually sell it.</summary>
       
 
       
