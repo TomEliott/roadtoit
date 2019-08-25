@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/author/tomeliott/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-25T19:11:08+02:00</updated>
+  <updated>2019-08-25T19:41:01+02:00</updated>
   <id>http://localhost:4000/author/tomeliott/feed.xml</id>
 
   
@@ -25,20 +25,6 @@
     
       
     
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
   
 
   
@@ -51,7 +37,7 @@
       <published>2019-05-21T01:16:00+02:00</published>
       <updated>2019-05-21T01:16:00+02:00</updated>
       <id>http://localhost:4000/stationf</id>
-      <content type="html" xml:base="http://localhost:4000/stationf">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/stationf">&lt;p&gt;Coming soon&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -79,14 +65,12 @@
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;xxx €&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://stationf.co/apply/fighters/&quot;&gt;&lt;em&gt;Fighters Program&lt;/em&gt;&lt;/a&gt; : Free &lt;br /&gt;&lt;a href=&quot;https://stationf.co/apply/founders/&quot;&gt;&lt;em&gt;Founders Program&lt;/em&gt;&lt;/a&gt; : 195 €/month&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
-
-&lt;p&gt;Blablablabla&lt;/p&gt;
+&lt;p&gt;Coming soon&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -96,10 +80,12 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;STATION F&lt;/strong&gt; &lt;br /&gt; 5 Parvis Alan Turing &lt;br /&gt;75013 Paris &lt;br /&gt; &lt;em&gt;www.stationf.co/contact&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content>
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10505.094107737681!2d2.371345!3d48.8339211!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x541ecb63365de48!2sSTATION%20F!5e0!3m2!1sfr!2sfr!4v1566754114644!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 
       
       
@@ -108,7 +94,7 @@
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -120,7 +106,7 @@
       
 
       
-        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+        <summary type="html">Coming soon</summary>
       
 
       
@@ -241,7 +227,7 @@
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -353,7 +339,7 @@ You will of course be able to exchange with other companies present on the spot 
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -460,7 +446,7 @@ You will of course be able to exchange with other companies present on the spot 
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -573,7 +559,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -682,7 +668,7 @@ By training young people from all horizons, École 42 intends to highlight the c
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -782,7 +768,7 @@ NUMA’s philosophy is based on the development of the startups’ business and 
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -901,7 +887,7 @@ As for the other schools or universities presented here, you will find many club
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -1020,7 +1006,7 @@ Regarding the cost, it depends on the needs of startups but on average, it amoun
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
@@ -1121,7 +1107,7 @@ At the end of the first 3 years, you can continue with the Advanced/Expert progr
       
 
       <author>
-          <name>Tom-Eliott Herfray</name>
+          <name>Tom-Eliott</name>
         
         
       </author>
