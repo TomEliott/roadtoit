@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/author/tomeliott/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-22T16:48:00+02:00</updated>
+  <updated>2019-08-25T17:14:11+02:00</updated>
   <id>http://localhost:4000/author/tomeliott/feed.xml</id>
 
   
@@ -170,7 +170,7 @@ As for the other schools or universities presented here, you will find many club
       <published>2019-03-02T11:42:00+01:00</published>
       <updated>2019-03-02T11:42:00+01:00</updated>
       <id>http://localhost:4000/incuballiance</id>
-      <content type="html" xml:base="http://localhost:4000/incuballiance">&lt;p&gt;Rapide présentation de l’incubateur et des principaux axes professionnels.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/incuballiance">&lt;p&gt;Incubator of the &lt;a href=&quot;/parissaclay&quot;&gt;Paris-Saclay&lt;/a&gt; cluster since 2005, IncubAlliance’s main mission is to create bridges between startups, companies, labor and research experts within the Paris-Saclay campus, through support, training and hosting services for startups and education stakeholders.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -182,30 +182,63 @@ As for the other schools or universities presented here, you will find many club
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;🏢 Incubator Name&lt;/td&gt;
-      &lt;td&gt;The Famous French School&lt;/td&gt;
+      &lt;td&gt;IncubAlliance&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🌐 Location&lt;/td&gt;
-      &lt;td&gt;Paris, France&lt;/td&gt;
+      &lt;td&gt;Orsay, France&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;Not specified&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;404 incubated projects and 310 startups created&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;The incubator is located within the Paris-Saclay campus, a major hub of French innovation and the world’s 8th largest innovation cluster, which already accounts for 15% of French public and private research&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;💵 Price&lt;/td&gt;
-      &lt;td&gt;xxx €&lt;/td&gt;
+      &lt;td&gt;NC&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Une plus longue présentation en expliquant la spécialité de l’établissement, comment elle interagit avec la région et avec les entreprises.&lt;/p&gt;
+&lt;p&gt;Located in the Paris-Saclay campus, a major hub of French innovation and the world’s 8th largest innovation cluster, IncubAlliance has been working for many years on the creation of innovative technology entrepreneurial projects at national and global level. In 2018, IncubAlliance incubated 42 new projects and 18 startups were created : that represents nearly 700 jobs for a survival rate of 95% (over 5 years), which is consistent.&lt;/p&gt;
 
-&lt;p&gt;Blablablabla&lt;/p&gt;
+&lt;p&gt;This incubator is the result of many years of questioning about how higher education institutions (universities, engineering schools) should manage their postgraduate students who wanted to start their own business.&lt;/p&gt;
+
+&lt;p&gt;By integrating the Paris-Saclay technology cluster, incubated startups work closely with students from neighboring schools or partners, and benefit from the expertise of 15% of French public and private research.&lt;/p&gt;
+
+&lt;h2 id=&quot;support-for-startups&quot;&gt;Support for startups…&lt;/h2&gt;
+
+&lt;p&gt;The IncubAlliance program for startups is simple and accurate :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Providing a 35-day training program where experts help fine-tune one’s project, in workshop format, before a startup is definitively launched (called &lt;em&gt;GenesisLab&lt;/em&gt;).&lt;/li&gt;
+  &lt;li&gt;Providing a 22-month support program, which includes coaching and group workshops, to steer startups toward their first product launch and sales (called &lt;em&gt;Incub22&lt;/em&gt;).&lt;/li&gt;
+  &lt;li&gt;Financing projects throughout the entire incubation period to cover external and outsourced services.&lt;/li&gt;
+  &lt;li&gt;Giving an incubation program certification (recognized by France).&lt;/li&gt;
+  &lt;li&gt;Offering shared or private accommodation for all teams in the Paris-Saclay HQ.&lt;/li&gt;
+  &lt;li&gt;Proposing collaborators and experts from Paris-Saclay universities, companies or laboratories.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Customized offers “Sur mesure” are of course available according to the needs of startups.&lt;/p&gt;
+
+&lt;h2 id=&quot;and-for-companies&quot;&gt;…And for companies&lt;/h2&gt;
+&lt;p&gt;A developed company can also benefit from IncubAlliance’s advantages, such as :&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Providing a privileged access to IncubAlliance’s services and the tech startup network.&lt;/li&gt;
+  &lt;li&gt;Giving a complete excubation program specially designed for companies’ and institutions’ needs.&lt;/li&gt;
+  &lt;li&gt;Providing the GenesisLab program described above.&lt;/li&gt;
+  &lt;li&gt;Providing a 8-day program with an introduction to technological entrepreneurship with a project underway (called &lt;em&gt;GenesisLight&lt;/em&gt;).&lt;/li&gt;
+  &lt;li&gt;Organizing meet-ups between startups, companies and research institutions.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition to all this, some programs are eligible for professional training financing solutions. The funding comes mainly from the European Union, the Île-de-France region and the Ministry of Higher Education of France.
+Regarding the cost, it depends on the needs of startups but on average, it amounts to about &lt;a href=&quot;http://www.mon-incubateur.com/site_incubateur/incubateur/incuballiance-orsay&quot;&gt;7000€&lt;/a&gt; on the entire program.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -215,10 +248,12 @@ As for the other schools or universities presented here, you will find many club
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;strong&gt;Mr. John Doe&lt;/strong&gt; &lt;br /&gt; Head of International Relation &lt;br /&gt; &lt;em&gt;john@doe.com&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33100000000&lt;/em&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;IncubAlliance Paris-Saclay&lt;/strong&gt; &lt;br /&gt; 86 Rue de Paris &lt;br /&gt; 91400 Orsay &lt;br /&gt; &lt;em&gt;contact@incuballiance.fr&lt;/em&gt; &lt;br /&gt; &lt;em&gt;+33 (0)1 77 93 21 00&lt;/em&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</content>
+&lt;/table&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10534.135779502953!2d2.1937061!3d48.6952746!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x78ee54de66ad73e!2sIncubAlliance!5e0!3m2!1sfr!2sfr!4v1566744028290!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content>
 
       
       
@@ -239,7 +274,7 @@ As for the other schools or universities presented here, you will find many club
       
 
       
-        <summary type="html">Rapide présentation de l’incubateur et des principaux axes professionnels.</summary>
+        <summary type="html">Incubator of the Paris-Saclay cluster since 2005, IncubAlliance’s main mission is to create bridges between startups, companies, labor and research experts within the Paris-Saclay campus, through support, training and hosting services for startups and education stakeholders.</summary>
       
 
       
