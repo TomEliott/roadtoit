@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/tag/incubators/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-25T17:14:11+02:00</updated>
+  <updated>2019-08-25T17:25:23+02:00</updated>
   <id>http://localhost:4000/tag/incubators/feed.xml</id>
 
   
@@ -559,7 +559,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;Not specified&lt;/td&gt;
+      &lt;td&gt;NC&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
@@ -567,7 +567,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;The incubator is located within the Paris-Saclay campus, a major hub of French innovation and the world’s 8th largest innovation cluster, which already accounts for 15% of French public and private research&lt;/td&gt;
+      &lt;td&gt;Incubated startups work closely &lt;br /&gt;with universities and companies from Paris-Saclay HQ&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;💵 Price&lt;/td&gt;
@@ -582,6 +582,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
 
 &lt;p&gt;By integrating the Paris-Saclay technology cluster, incubated startups work closely with students from neighboring schools or partners, and benefit from the expertise of 15% of French public and private research.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/incuballiance-photo.jpg&quot; alt=&quot;IncubAlliance HQ&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;support-for-startups&quot;&gt;Support for startups…&lt;/h2&gt;
 
 &lt;p&gt;The IncubAlliance program for startups is simple and accurate :&lt;/p&gt;
@@ -596,6 +597,7 @@ Do not hesitate to consult the &lt;a href=&quot;https://api-site.paris.fr/images
 
 &lt;p&gt;Customized offers “Sur mesure” are of course available according to the needs of startups.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/incuballiance-photo2.jpg&quot; alt=&quot;IncubAlliance HQ&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;and-for-companies&quot;&gt;…And for companies&lt;/h2&gt;
 &lt;p&gt;A developed company can also benefit from IncubAlliance’s advantages, such as :&lt;/p&gt;
 &lt;ul&gt;
