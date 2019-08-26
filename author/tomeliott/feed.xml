@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="http://localhost:4000/author/tomeliott/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2019-08-26T17:18:47+02:00</updated>
+  <updated>2019-08-26T17:42:55+02:00</updated>
   <id>http://localhost:4000/author/tomeliott/feed.xml</id>
 
   
@@ -252,7 +252,7 @@
       <published>2019-05-06T15:20:00+02:00</published>
       <updated>2019-05-06T15:20:00+02:00</updated>
       <id>http://localhost:4000/agoranov</id>
-      <content type="html" xml:base="http://localhost:4000/agoranov">&lt;p&gt;Founded more than 16 years ago, AgoraNov is one of the largest incubators in Île-de-France and France with more than 300 incubated startups, including successful companies such as the advertising giant &lt;em&gt;Criteo&lt;/em&gt;, the doctor appointment management app &lt;em&gt;Doctolib&lt;/em&gt; or the world robotics giant &lt;em&gt;Aldebaran&lt;/em&gt; (now &lt;em&gt;SoftBank Robotics&lt;/em&gt;). The incubator is also sponsored by many universities and public companies around the country.&lt;/p&gt;
+      <content type="html" xml:base="http://localhost:4000/agoranov">&lt;p&gt;Founded more than 16 years ago, AgoraNov is one of the largest incubators in Île-de-France and France with more than 300 incubated startups, including successful companies such as the advertising giant &lt;em&gt;Criteo&lt;/em&gt;, the appointment doctor management app &lt;em&gt;Doctolib&lt;/em&gt; or the world robotics giant &lt;em&gt;Aldebaran&lt;/em&gt; (now &lt;em&gt;SoftBank Robotics&lt;/em&gt;). The incubator is also sponsored by many universities and public companies around the country.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -291,7 +291,7 @@
 
 &lt;p&gt;A key player in the entrepreneurship and innovation sector and launched 16 years ago, AgoraNov is a public incubator of startups with a strong technological identity. The incubator was founded by the UPMC University (now &lt;a href=&quot;/sorbonneuniversity&quot;&gt;Sorbonne University&lt;/a&gt;, do not hesitate to read my full article about it), Paris-Dauphine University, ENS, ParisTech and INRIA – and fully supported by the Ministry of Research and Higher Education, the Île-de-France Region, the City of Paris and the European Social Fund.&lt;/p&gt;
 
-&lt;p&gt;In less than 20 years, AgoraNov has raised more than 500 million euros of private funds for more than 320 incubated projects and 300 companies in the areas of digital technology, healthcare, industry and “greentech”. On the 320 incubated projects, nearly 170 have been awarded by the Ministry of Higher Education and Research of France.&lt;/p&gt;
+&lt;p&gt;In less than 20 years, AgoraNov has raised more than 500 million euros of private funds for more than 320 incubated projects and 300 companies in the areas of digital technology, healthcare, industry and “greentech”. On the 320 incubated projects, nearly 170 have been rewarded by the Ministry of Higher Education and Research of France.&lt;/p&gt;
 
 &lt;p&gt;Agoranov simultaneously supports some 60 startups that benefit from personalized support, the possibility of being hosted in the heart of Paris, an acceleration program and the expertise of a community of more than 300 startups, including some “pépites” like Criteo and Doctolib.&lt;/p&gt;
 
@@ -306,7 +306,7 @@
 &lt;p&gt;The AgoraNov program is specific to each company and each domain (hopefully) but in general, the incubator will bring personality coaching by an experienced team from different fields.&lt;/p&gt;
 
 &lt;p&gt;With this you will also have accommodation with closed or open offices in the heart of Paris, you will have an infrastructure of more than 2000m², including meeting rooms, open-spaces, workspaces, relaxation areas and a reception.
-You will of course be able to exchange with other companies present on the spot and benefit from targeted trainings (meetings with partners, investors, industrialists or experts of the sector).&lt;/p&gt;
+You will of course be able to exchange with other companies present on the spot and benefit from targeted training sessions (meetings with partners, investors, industrialists or experts of the sector).&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;“We have an appetite for more technological projects, but as we are open to all sectors, it creates synergies between web start-ups and those that are more tech”&lt;/strong&gt;
@@ -351,7 +351,7 @@ You will of course be able to exchange with other companies present on the spot 
       
 
       
-        <summary type="html">Founded more than 16 years ago, AgoraNov is one of the largest incubators in Île-de-France and France with more than 300 incubated startups, including successful companies such as the advertising giant Criteo, the doctor appointment management app Doctolib or the world robotics giant Aldebaran (now SoftBank Robotics). The incubator is also sponsored by many universities and public companies around the country.</summary>
+        <summary type="html">Founded more than 16 years ago, AgoraNov is one of the largest incubators in Île-de-France and France with more than 300 incubated startups, including successful companies such as the advertising giant Criteo, the appointment doctor management app Doctolib or the world robotics giant Aldebaran (now SoftBank Robotics). The incubator is also sponsored by many universities and public companies around the country.</summary>
       
 
       
@@ -491,7 +491,7 @@ You will of course be able to exchange with other companies present on the spot 
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;3200 m2&lt;/td&gt;
+      &lt;td&gt;3200 m²&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
@@ -513,7 +513,7 @@ You will of course be able to exchange with other companies present on the spot 
 &lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/laruche-photo.jpg&quot; alt=&quot;La Ruche HQ&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;the-place-to-bee&quot;&gt;&lt;em&gt;“The Place to Bee”&lt;/em&gt;&lt;/h2&gt;
 
-&lt;p&gt;From hackatons to half-day to several days trainings, La Ruche offers a range of support for entrepreneurs and startups. In 1 year, more than 125 projects were incubated with an 83% survival rate of incubated entrepreneurs in the first 3 years.&lt;/p&gt;
+&lt;p&gt;From Hackathons to half-day to several days trainings, La Ruche offers a range of support for entrepreneurs and startups. In 1 year, more than 125 projects were incubated with an 83% survival rate of incubated entrepreneurs in the first 3 years.&lt;/p&gt;
 
 &lt;p&gt;Regarding the workspaces, I will focus on HQs in Île-de-France and Paris Region, but La Ruche also has workspaces in &lt;a href=&quot;https://la-ruche.net/ruche/bordeaux/&quot;&gt;Bordeaux&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/marseille/&quot;&gt;Marseille&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/saint-nazaire/&quot;&gt;Saint-Nazaire&lt;/a&gt;, &lt;a href=&quot;https://la-ruche.net/ruche/montpellier/&quot;&gt;Montpellier&lt;/a&gt; and more.&lt;/p&gt;
 
@@ -734,9 +734,9 @@ By training young people from all horizons, École 42 intends to highlight the c
 
 &lt;h2 id=&quot;not-only-an-open-space&quot;&gt;Not only an open-space&lt;/h2&gt;
 
-&lt;p&gt;The first time I went to NUMA, it was just to have a place where to discuss professionally with other students, entrepreneurs and business leaders, I also discovered a free space co-working on the ground floor, with possibility to rent different rooms for &lt;a href=&quot;https://www.numa.co/fr/reservation-de-salles&quot;&gt;private meetings&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The first time I went to NUMA, it was just to have a place where to discuss professionally with other students, entrepreneurs and business leaders. I discovered a free space co-working on the ground floor, with possibility to rent different rooms for &lt;a href=&quot;https://www.numa.co/fr/reservation-de-salles&quot;&gt;private meetings&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;But my biggest surprise was to discover the “formations”. Today, the challenge is not only to master the technical aspect of a project but also the notions of management, intrapreneurship, design thinking and digital marketing. And guess what? That’s exactly what NUMA offers. In fact, we understand quickly that we do not invest only in a HQ or a place to work, but in a long-term support of your project.&lt;/p&gt;
+&lt;p&gt;My biggest surprise was to discover the “formations”. Today, the challenge is not only to master the technical aspect of a project but also the notions of management, “intrapreneurship”, design thinking and digital marketing. And guess what? That’s exactly what NUMA offers. In fact, we understand quickly that we do not invest only in a HQ or a place to work, but in a long-term support of your project.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/numa-photo2.jpg&quot; alt=&quot;NUMA HQ&quot; /&gt;&lt;/p&gt;
 &lt;h2 id=&quot;to-infinity-and-beyond&quot;&gt;“To infinity and beyond”&lt;/h2&gt;
@@ -977,7 +977,7 @@ As for the other schools or universities presented here, you will find many club
   &lt;li&gt;Providing a privileged access to IncubAlliance’s services and the tech startup network.&lt;/li&gt;
   &lt;li&gt;Giving a complete excubation program specially designed for companies’ and institutions’ needs.&lt;/li&gt;
   &lt;li&gt;Providing the GenesisLab program described above.&lt;/li&gt;
-  &lt;li&gt;Providing a 8-day program with an introduction to technological entrepreneurship with a project underway (called &lt;em&gt;GenesisLight&lt;/em&gt;).&lt;/li&gt;
+  &lt;li&gt;Providing a 8-day program with an introduction to technological entrepreneurship with a project under way (called &lt;em&gt;GenesisLight&lt;/em&gt;).&lt;/li&gt;
   &lt;li&gt;Organizing meet-ups between startups, companies and research institutions.&lt;/li&gt;
 &lt;/ul&gt;
 
