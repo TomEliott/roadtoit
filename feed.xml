@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-26T17:42:55+02:00</updated><id>http://localhost:4000/</id><title type="html">RoadToIT</title><subtitle>A blog about IT in Île-de-France region</subtitle><entry><title type="html">Station F</title><link href="http://localhost:4000/stationf" rel="alternate" type="text/html" title="Station F" /><published>2019-05-21T01:16:00+02:00</published><updated>2019-05-21T01:16:00+02:00</updated><id>http://localhost:4000/stationf</id><content type="html" xml:base="http://localhost:4000/stationf">&lt;p&gt;Coming soon&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-27T13:43:14+02:00</updated><id>http://localhost:4000/</id><title type="html">RoadToIT</title><subtitle>A blog about IT in Paris Region</subtitle><entry><title type="html">Station F</title><link href="http://localhost:4000/stationf" rel="alternate" type="text/html" title="Station F" /><published>2019-05-21T01:16:00+02:00</published><updated>2019-05-21T01:16:00+02:00</updated><id>http://localhost:4000/stationf</id><content type="html" xml:base="http://localhost:4000/stationf">&lt;p&gt;Designed by Xavier Niel (creator of &lt;a href=&quot;/ecole42&quot;&gt;42&lt;/a&gt;), STATION F is the largest startup incubator in the world, with several thousand startups, dozens of programs and a presence of major US companies on campus. By far the most impressive and developed incubator !&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -17,12 +17,16 @@
       &lt;td&gt;Paris, France&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
+      &lt;td&gt;🔢 Startups incubated&lt;/td&gt;
+      &lt;td&gt;1000+ startups&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
       &lt;td&gt;🏰 Size&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;34 000 m²&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;🛍 The &lt;em&gt;“Petit plus”&lt;/em&gt;&lt;/td&gt;
-      &lt;td&gt;xxx&lt;/td&gt;
+      &lt;td&gt;Fighters Program is offered free of charge for one year to entrepreneurs &lt;br /&gt;who have not completed a course in high schools.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;💵 Price&lt;/td&gt;
@@ -31,7 +35,43 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;Coming soon&lt;/p&gt;
+&lt;p&gt;Inaugurated in 2017 after 4 years of work, Station F is not only a large building hosting thousands of startups, it is also a building full of stories. Built in the 1930s, it was a freight hall belonging to SNCF, the French train company. For a long time, this building, called &lt;em&gt;Halle Freyssinet&lt;/em&gt;, thus served as professional hangars, until its acquisition in 2013 by investor Xavier Niel (&lt;a href=&quot;https://www.iliad.fr/en/&quot;&gt;Iliad&lt;/a&gt;, &lt;a href=&quot;https://www.scaleway.com/en/&quot;&gt;Scaleway&lt;/a&gt;, &lt;a href=&quot;https://www.free.fr&quot;&gt;Free&lt;/a&gt;, &lt;a href=&quot;/ecole42&quot;&gt;42&lt;/a&gt;) and the City of Paris.&lt;/p&gt;
+
+&lt;p&gt;The campus is &lt;strong&gt;amazing&lt;/strong&gt;. It is very well placed, close to public transport, restaurants, cinemas and housing. It covers 34 000 m² and hosts a start-up area of more than 3000 workstations, a market, 26 international support and acceleration programs, event spaces and several food courts. You will find hundreds of apartments just ten minutes from the campus, with all the necessary equipment for housing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/stationf-photo.jpg&quot; alt=&quot;Station F HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;the-place-to-be&quot;&gt;The place to be&lt;/h2&gt;
+&lt;p&gt;I have to be honest: the first time you go to Station F, you are immediately impressed. Why ? Because you will not only find startups still unknown, but also what they call &lt;em&gt;Mentorship Offices&lt;/em&gt;. These are individual or small group sessions with a manager (engineer, commercial, developer, design) of a large company, such as Google, Apple, Amazon Web Services (AWS) or even OVH. They are here only to help you understand how their services work and how you can make the most out of their solutions, and it’s clearly something unique !&lt;/p&gt;
+
+&lt;p&gt;Looking for something more advanced? Introducing Station F’s programs. There are currently two, and in truth they are exactly the same, with only one difference : the price. You will probably ask yourself (and you are right) why pay a program 195 € per month when you can get it for free ? The answer is in the name of the free program : &lt;strong&gt;&lt;em&gt;Fighters&lt;/em&gt;&lt;/strong&gt; program.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;The Fighters Program provides free access to the Founders Program for killer entrepreneurs who simply have not had the same opportunities as the rest.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In other words, the program is intended for entrepreneurs who have not had the chance to pursue higher education or to obtain a degree in business school or engineering. It’s open to everyone no matter where you come from. I thought it was important to talk about this program which I consider very innovative.&lt;/p&gt;
+
+&lt;p&gt;And now, back to basics. Station F offers shared or closed offices (open all the time), an access to all restaurants/bars/cafeteria, but also to meeting rooms, Wi-Fi/LAN, printers, exclusive events with other high-level entrepreneurs and a tons of perks. In addition to this, you will find essential services and stuffs for startups : investment funds areas, a fab lab, 3D printers and public services.&lt;/p&gt;
+
+&lt;p&gt;When I was in Ireland, a lot of people asked me if paying the monthly fee was the only way to join Station F, well… the answer is no. And you will understand why. ⬇️&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/incubators/img/stationf-photo2.jpg&quot; alt=&quot;Station F HQ&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;power-to-entrepreneurs&quot;&gt;Power to entrepreneurs&lt;/h2&gt;
+&lt;p&gt;An incubator would be nothing without its network of professionals, companies and entrepreneurs around the world, and Station F understood this from the beginning. In addition to the programs I presented above, Station F offers hundreds of programs designed with its partners, including digital leaders like Facebook and its &lt;em&gt;Facebook Garage Paris&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Partner programs evolve over time and are often short-term programs. But it’s a great way to join the world of startups by being fully accompanied by an expert. The &lt;em&gt;Facebook Garage&lt;/em&gt; Program is a great example, it’s a six-month program for startups whose value proposition comes from the use of personal data.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;We work with innovative startups in Paris. We support their business models and help bring about better data protection processes.&lt;/strong&gt; &lt;br /&gt; – Facebook France&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In other words, Facebook provides to these companies a mentoring and regular follow-up during the incubation period. This translates into workshops with Facebook teams, monthly meetings with managers and experts, and tips for quick professionalization.&lt;/p&gt;
+
+&lt;p&gt;But Facebook is not the only company offering this program, you will find hundreds of programs in different areas, such as communication (Havas Group, HEC, EDHEC), beauty-retail (L’Oréal, Veepee), video games (Ubisoft), media (TF1), finance (BNP Paribas), tech (Microsoft, Thales, Usine.IO) and others.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;💎 &lt;em&gt;Le +&lt;/em&gt; : If you go to Paris, what I can advise you is to plan a &lt;a href=&quot;https://stationf.co/visits/&quot;&gt;visit to Station F for free&lt;/a&gt;, you will not have access to all the HQ (confidentiality of projects) but it is a very cool experience, you will also discover the neighborhood and the proximity with other incubators (&lt;a href=&quot;/numa&quot;&gt;NUMA&lt;/a&gt;) or schools (&lt;a href=&quot;/epitech&quot;&gt;Epitech&lt;/a&gt;, &lt;a href=&quot;/efrei&quot;&gt;Efrei&lt;/a&gt;, &lt;a href=&quot;/epita&quot;&gt;EPITA&lt;/a&gt;).&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -46,7 +86,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10505.094107737681!2d2.371345!3d48.8339211!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x541ecb63365de48!2sSTATION%20F!5e0!3m2!1sfr!2sfr!4v1566754114644!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott</name></author><category term="incubators" /><summary type="html">Coming soon</summary></entry><entry><title type="html">Paris-Saclay University</title><link href="http://localhost:4000/parissaclay" rel="alternate" type="text/html" title="Paris-Saclay University" /><published>2019-05-13T14:56:00+02:00</published><updated>2019-05-13T14:56:00+02:00</updated><id>http://localhost:4000/parissaclay</id><content type="html" xml:base="http://localhost:4000/parissaclay">&lt;p&gt;Unlike all the schools I mentioned here, Paris-Saclay University is not just a simple university, but a group of universities in Île-de-France Region specializing in many scientific fields. Paris-Saclay also brings together France’s largest technology hub and offers to French and international students world-renowned degrees.&lt;/p&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10505.094107737681!2d2.371345!3d48.8339211!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x541ecb63365de48!2sSTATION%20F!5e0!3m2!1sfr!2sfr!4v1566754114644!5m2!1sfr!2sfr&quot; width=&quot;600&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><author><name>Tom-Eliott</name></author><category term="incubators" /><summary type="html">Designed by Xavier Niel (creator of 42), STATION F is the largest startup incubator in the world, with several thousand startups, dozens of programs and a presence of major US companies on campus. By far the most impressive and developed incubator !</summary></entry><entry><title type="html">Paris-Saclay University</title><link href="http://localhost:4000/parissaclay" rel="alternate" type="text/html" title="Paris-Saclay University" /><published>2019-05-13T14:56:00+02:00</published><updated>2019-05-13T14:56:00+02:00</updated><id>http://localhost:4000/parissaclay</id><content type="html" xml:base="http://localhost:4000/parissaclay">&lt;p&gt;Unlike all the schools I mentioned here, Paris-Saclay University is not just a simple university, but a group of universities in Île-de-France Region specializing in many scientific fields. Paris-Saclay also brings together France’s largest technology hub and offers to French and international students world-renowned degrees.&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;

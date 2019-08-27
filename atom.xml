@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title> - Articles</title>
-    <description>A blog about IT in Île-de-France region</description>
+    <description>A blog about IT in Paris Region</description>
     <link>
     http://localhost:4000</link>
     
@@ -10,7 +10,7 @@
       <item>
         <title>Station F</title>
         
-          <description>&lt;p&gt;Coming soon&lt;/p&gt;
+          <description>&lt;p&gt;Designed by Xavier Niel (creator of &lt;a href=&quot;/ecole42&quot;&gt;42&lt;/a&gt;), STATION F is the largest startup incubator in the world, with several thousand startups, dozens of programs and a presence of major US companies on campus. By far the most impressive and developed incubator !&lt;/p&gt;
 
 </description>
         
